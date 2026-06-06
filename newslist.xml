@@ -5,9 +5,39 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sat, 06 Jun 2026 16:34:36 +0000</lastBuildDate>
-	<generator>NewsList Aggregator 1.2.0</generator>
+	<lastBuildDate>Sat, 06 Jun 2026 20:07:59 +0000</lastBuildDate>
+	<generator>NewsList Aggregator 1.4.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[هر آنچه از WWDC 2026 انتظار داریم؛ از iOS 27 تا تغییرات انقلابی سیری]]></title>
+		<link>https://digiato.com/app/what-to-expect-from-wwdc-2026</link>
+		<guid isPermaLink="true">https://digiato.com/app/what-to-expect-from-wwdc-2026</guid>
+		<pubDate>Sat, 06 Jun 2026 18:30:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/what-to-expect-from-wwdc-2026-2-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/what-to-expect-from-wwdc-2026-2-330x200.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[گلکسی S27 پرو احتمالاً به باتری مشابه مدل اولترا مجهز می‌شود]]></title>
+		<link>https://digiato.com/mobile/galaxy-s27-pro-battery-capacity-leaked</link>
+		<guid isPermaLink="true">https://digiato.com/mobile/galaxy-s27-pro-battery-capacity-leaked</guid>
+		<pubDate>Sat, 06 Jun 2026 18:00:00 +0000</pubDate>
+		<category><![CDATA[موبایل]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Galaxy-S27-Pro-battery-capacity-2-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Galaxy-S27-Pro-battery-capacity-2-330x200.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[تمسخر سامسونگ توسط مدیرعامل TSMC: سال‌هاست می‌خواهند به ما برسند]]></title>
+		<link>https://digiato.com/computers-hardware/tsmc-ceo-mocked-samsung-electronics</link>
+		<guid isPermaLink="true">https://digiato.com/computers-hardware/tsmc-ceo-mocked-samsung-electronics</guid>
+		<pubDate>Sat, 06 Jun 2026 17:00:00 +0000</pubDate>
+		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/TSMC-mocked-Samsung-2.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/TSMC-mocked-Samsung-2.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[خداحافظی با اینتل؛ از macOS 27 چه چیزهایی می‌دانیم؟]]></title>
 		<link>https://digiato.com/app/everything-about-macos-27-update-before-wwdc26</link>
@@ -15,8 +45,8 @@
 		<pubDate>Sat, 06 Jun 2026 16:30:00 +0000</pubDate>
 		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/Macos-27-update-before-wwdc-2.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/Macos-27-update-before-wwdc-2.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Macos-27-update-before-wwdc-2-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Macos-27-update-before-wwdc-2-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[زنگ خطر برای اینتل؛ سهم پردازنده‌های AMD در استیم به ۴۵ درصد رسید]]></title>
@@ -215,8 +245,8 @@
 		<pubDate>Fri, 05 Jun 2026 18:30:00 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://rooziato.com/wp-content/uploads/2026/05/Navys-HALO-missile-6.webp" type="image/webp" />
-		<media:content url="https://rooziato.com/wp-content/uploads/2026/05/Navys-HALO-missile-6.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Navys-HALO-missile-6-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Navys-HALO-missile-6-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[مدیرعامل سافت‌بانک: هوش مصنوعی درحال توسعه مدل بعدی OpenAI است]]></title>
