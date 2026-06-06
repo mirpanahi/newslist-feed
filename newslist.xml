@@ -1,2 +1,642 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"><channel><title>NewsList feed (placeholder)</title><link>https://github.com/mirpanahi/newslist-feed</link><description>This file will be replaced by the NewsList Aggregator plugin on its first push.</description></channel></rss>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title><![CDATA[NewsList — Digiato Tech]]></title>
+	<link>https://iotechoi.com/</link>
+	<description><![CDATA[Aggregated Tech Daily]]></description>
+	<language>fa-IR</language>
+	<lastBuildDate>Sat, 06 Jun 2026 11:50:38 +0000</lastBuildDate>
+	<generator>NewsList Aggregator 1.2.0</generator>
+	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[احتمال همکاری آنتروپیک با آژانس امنیت ملی آمریکا قوت گرفت؛ استفاده از Mythos در پروژه‌‌های دولتی]]></title>
+		<link>https://digiato.com/artificial-intelligence/nsa-to-use-mythos-cybersecurity-ai</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/nsa-to-use-mythos-cybersecurity-ai</guid>
+		<pubDate>Sat, 06 Jun 2026 11:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/mythos-ai-nsa-contract-1.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/mythos-ai-nsa-contract-1.jpeg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[معاون ارتباطات دفتر رئیس‌جمهور: پزشکیان با محدودیت اینترنت پس از جنگ موافق نبود]]></title>
+		<link>https://digiato.com/iran-technology-news/presidential-office-pezeshkian-opposed-post-war-internet-restrictions</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/presidential-office-pezeshkian-opposed-post-war-internet-restrictions</guid>
+		<pubDate>Sat, 06 Jun 2026 11:17:29 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/tabatabaee.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/tabatabaee.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[کاسیو از ساعت جدید Edifice با همکاری Toyota Racing رونمایی کرد]]></title>
+		<link>https://digiato.com/gadgets/casio-edifice-toyota-racing-mechanical-watch</link>
+		<guid isPermaLink="true">https://digiato.com/gadgets/casio-edifice-toyota-racing-mechanical-watch</guid>
+		<pubDate>Sat, 06 Jun 2026 09:30:00 +0000</pubDate>
+		<category><![CDATA[گجت ها]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Casio-Edifice-EFK-200XPB-1-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Casio-Edifice-EFK-200XPB-1-330x200.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[رئیس کمیسیون اینترنت نصر تهران: وب‌سایت‌های ایرانی با مشکل تمدید گواهی SSL مواجهند]]></title>
+		<link>https://digiato.com/iran-technology-news/ssl-certificate-renewal-disruptions-affect-website-access</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/ssl-certificate-renewal-disruptions-affect-website-access</guid>
+		<pubDate>Sat, 06 Jun 2026 09:01:59 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Untitled.jpg-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Untitled.jpg-330x200.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[انویدیا تولید کارت‌های گرافیک سری RTX 50 Super را از سر می‌گیرد]]></title>
+		<link>https://digiato.com/computers-hardware/nvidia-rtx-50-super-series-12gb-5060-super-rumor</link>
+		<guid isPermaLink="true">https://digiato.com/computers-hardware/nvidia-rtx-50-super-series-12gb-5060-super-rumor</guid>
+		<pubDate>Sat, 06 Jun 2026 09:00:00 +0000</pubDate>
+		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/DigiPics-Nvidia-RTX-5080-5jpg-1024x683.jpg-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/DigiPics-Nvidia-RTX-5080-5jpg-1024x683.jpg-330x200.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[گوگل هوش مصنوعی جمینای را برای گوشی‌های اقتصادی Android Go منتشر کرد]]></title>
+		<link>https://digiato.com/artificial-intelligence/gemini-go-released-for-budget-android-go-smartphones</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/gemini-go-released-for-budget-android-go-smartphones</guid>
+		<pubDate>Sat, 06 Jun 2026 07:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Gemini-Go.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Gemini-Go.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[نخستین فروشگاه دیجیتال همراه اول در تهران افتتاح شد]]></title>
+		<link>https://digiato.com/iran-technology-news/mci-first-digital-store</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/mci-first-digital-store</guid>
+		<pubDate>Sat, 06 Jun 2026 07:21:17 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/1.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/1.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[انجمن تجارت الکترونیک: تحریم صرافی‌های رمزارزی در تضاد با فلسفه بلاکچین است]]></title>
+		<link>https://digiato.com/iran-technology-news/ecommerce-association-crypto-sanctions-against-blockchain-philosophy</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/ecommerce-association-crypto-sanctions-against-blockchain-philosophy</guid>
+		<pubDate>Sat, 06 Jun 2026 06:35:09 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Crypto-sanctions.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Crypto-sanctions.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[حالت Lockdown برای تمام کاربران ChatGPT منتشر شد؛ مؤثر در مقابله با حملات Prompt Injection]]></title>
+		<link>https://digiato.com/artificial-intelligence/chatgpt-lockdown-mode-for-prompt-injection-attacks</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/chatgpt-lockdown-mode-for-prompt-injection-attacks</guid>
+		<pubDate>Sat, 06 Jun 2026 06:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/chatgpt-lockdown-mode-1.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/chatgpt-lockdown-mode-1.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: جنگی‌ترین اقتصادهای جهان در سال ۲۰۲۵ + اینفوگرافی]]></title>
+		<link>https://digiato.com/tech/most-militarized-economies-2025</link>
+		<guid isPermaLink="true">https://digiato.com/tech/most-militarized-economies-2025</guid>
+		<pubDate>Sat, 06 Jun 2026 06:06:48 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/WorldsMostMilitarizedEconomy2026.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/WorldsMostMilitarizedEconomy2026.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[نماینده مجلس وزیر ارتباطات را تهدید به استیضاح کرد: وصل کردن اینترنت خلاف قانون بود]]></title>
+		<link>https://digiato.com/iran-technology-news/mp-seeks-minister-impeachment</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/mp-seeks-minister-impeachment</guid>
+		<pubDate>Sat, 06 Jun 2026 06:02:53 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/احمد-راستینه.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/احمد-راستینه.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[حمام خون در بازار کریپتو؛ قیمت بیت‌کوین به زیر ۶۰ هزار دلار سقوط کرد]]></title>
+		<link>https://digiato.com/cryptocurrency/bitcoin-price-crash-below-60000</link>
+		<guid isPermaLink="true">https://digiato.com/cryptocurrency/bitcoin-price-crash-below-60000</guid>
+		<pubDate>Sat, 06 Jun 2026 05:27:34 +0000</pubDate>
+		<category><![CDATA[کریپتوکارنسی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/BTC-Drop.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/BTC-Drop.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[مطالعه جدید: بیش از ۶۰ درصد مردم برای مشاوره روانی از هوش مصنوعی کمک می‌گیرند]]></title>
+		<link>https://digiato.com/health/ai-mental-health-support-survey</link>
+		<guid isPermaLink="true">https://digiato.com/health/ai-mental-health-support-survey</guid>
+		<pubDate>Fri, 05 Jun 2026 19:30:00 +0000</pubDate>
+		<category><![CDATA[سلامت]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/AI-mental-health-support1.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/AI-mental-health-support1.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[مدیرعامل سافت‌بانک: هوش مصنوعی درحال توسعه مدل بعدی OpenAI است]]></title>
+		<link>https://digiato.com/artificial-intelligence/softbank-ceo-saying-openai-developing-models-via-ai</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/softbank-ceo-saying-openai-developing-models-via-ai</guid>
+		<pubDate>Fri, 05 Jun 2026 18:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/softbank-openai-ceo.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/softbank-openai-ceo.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[این آیفون‌ها احتمالاً آپدیت iOS 27 را دریافت نخواهند کرد]]></title>
+		<link>https://digiato.com/mobile/ios-27-probable-devices-list</link>
+		<guid isPermaLink="true">https://digiato.com/mobile/ios-27-probable-devices-list</guid>
+		<pubDate>Fri, 05 Jun 2026 16:30:00 +0000</pubDate>
+		<category><![CDATA[موبایل]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/iPhones-that-get-ios-27-update-1.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/iPhones-that-get-ios-27-update-1.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[موافقت OpenAI با فرمان جدید ترامپ؛ مدل‌های پیشرفته قبل از انتشار زیر ذره‌بین دولت قرار می‌گیرند]]></title>
+		<link>https://digiato.com/artificial-intelligence/openai-will-let-us-goverment-review-its-new-models-before-releasing-it</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/openai-will-let-us-goverment-review-its-new-models-before-releasing-it</guid>
+		<pubDate>Fri, 05 Jun 2026 15:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/chatgpt-usa-flag.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/chatgpt-usa-flag.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: تغییرات جایگاه ۱۵ اقتصاد برتر جهان از ۲۰۱۶ تا ۲۰۲۶ + اینفوگرافی]]></title>
+		<link>https://digiato.com/tech/world-15-largest-economies-2016-and-2026</link>
+		<guid isPermaLink="true">https://digiato.com/tech/world-15-largest-economies-2016-and-2026</guid>
+		<pubDate>Fri, 05 Jun 2026 15:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/05/top15economy-growth.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/05/top15economy-growth.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[جاسوسان چین از لینکدین برای دسترسی به اطلاعات حساس افراد سوءاستفاده می‌کنند]]></title>
+		<link>https://digiato.com/security/linkedin-is-used-by-chinese-spies-to-gather-information</link>
+		<guid isPermaLink="true">https://digiato.com/security/linkedin-is-used-by-chinese-spies-to-gather-information</guid>
+		<pubDate>Fri, 05 Jun 2026 15:00:00 +0000</pubDate>
+		<category><![CDATA[امنیت]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/chinese-spies-linkedin-1.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/chinese-spies-linkedin-1.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[بلومبرگ: برای استفاده از قابلیت‌های جدید سیری احتمالاً باید وارد لیست انتظار شوید]]></title>
+		<link>https://digiato.com/app/apple-appears-to-release-new-chatbot-like-siri</link>
+		<guid isPermaLink="true">https://digiato.com/app/apple-appears-to-release-new-chatbot-like-siri</guid>
+		<pubDate>Fri, 05 Jun 2026 14:30:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/iOS-27-beta-siri-new-2.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/iOS-27-beta-siri-new-2.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[اپل به‌جای هدست روی عینک هوشمند تمرکز می‌کند؛ افشای تصاویر ویژن پرو مشکی]]></title>
+		<link>https://digiato.com/gadgets/black-apple-vision-pro-leaked-while-focusing-on-glasses</link>
+		<guid isPermaLink="true">https://digiato.com/gadgets/black-apple-vision-pro-leaked-while-focusing-on-glasses</guid>
+		<pubDate>Fri, 05 Jun 2026 13:30:00 +0000</pubDate>
+		<category><![CDATA[گجت ها]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/black-apple-vision-pro.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/black-apple-vision-pro.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[هیئت نظارت متا: سازوکار مسدودسازی اکانت‌ها در اینستاگرام باید شفاف‌تر شود]]></title>
+		<link>https://digiato.com/app/meta-oversight-board-says-users-are-angry-with-its-ban-system-transparency</link>
+		<guid isPermaLink="true">https://digiato.com/app/meta-oversight-board-says-users-are-angry-with-its-ban-system-transparency</guid>
+		<pubDate>Fri, 05 Jun 2026 13:00:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/instagram-no-transparency-in-banning-2.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/instagram-no-transparency-in-banning-2.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[آسیب‌پذیری اندروید و جمینای؛ هکرها می‌توانستند با یک نوتیفیکیشن گوشی شما را کنترل کنند]]></title>
+		<link>https://digiato.com/security/android-google-gemini-notification-hijack-safebreach</link>
+		<guid isPermaLink="true">https://digiato.com/security/android-google-gemini-notification-hijack-safebreach</guid>
+		<pubDate>Fri, 05 Jun 2026 12:30:00 +0000</pubDate>
+		<category><![CDATA[امنیت]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Gemini-AI.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Gemini-AI.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[هواوی nova Y74 با باتری غول‌پیکر و نمایشگر ۹۰ هرتزی معرفی شد]]></title>
+		<link>https://digiato.com/mobile/huawei-announced-nova-y74</link>
+		<guid isPermaLink="true">https://digiato.com/mobile/huawei-announced-nova-y74</guid>
+		<pubDate>Fri, 05 Jun 2026 11:30:00 +0000</pubDate>
+		<category><![CDATA[موبایل]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Huawei-nova-Y74-2.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Huawei-nova-Y74-2.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[قابلیت جدید گوگل برای چهره‌های معروف و رسانه‌ها: ساخت پروفایل اختصاصی در موتور جستجو]]></title>
+		<link>https://digiato.com/internet-network/google-search-profile-creators-customization</link>
+		<guid isPermaLink="true">https://digiato.com/internet-network/google-search-profile-creators-customization</guid>
+		<pubDate>Fri, 05 Jun 2026 11:00:00 +0000</pubDate>
+		<category><![CDATA[اینترنت و شبکه]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Google-Profiles.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Google-Profiles.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[هوش مصنوعی در جام جهانی ۲۰۲۶؛ هر تیم برای اولین‌بار دستیار AI خواهد داشت]]></title>
+		<link>https://digiato.com/artificial-intelligence/fifa-ai-pro-world-cup-2026-ai-coach</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/fifa-ai-pro-world-cup-2026-ai-coach</guid>
+		<pubDate>Fri, 05 Jun 2026 09:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/ai-world-cup-fifa.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/ai-world-cup-fifa.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[رکوردشکنی اپل؛ گردش مالی اکوسیستم اپ استور به ۱.۴ تریلیون دلار رسید]]></title>
+		<link>https://digiato.com/app/app-store-1-4-trillions-dollars-revenue-in-ecosystem</link>
+		<guid isPermaLink="true">https://digiato.com/app/app-store-1-4-trillions-dollars-revenue-in-ecosystem</guid>
+		<pubDate>Fri, 05 Jun 2026 09:00:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/app-store-ecosystem-revenue-2.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/app-store-ecosystem-revenue-2.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[گیم‌شو مافیا با ستاره‌های فناوری؛ قسمت اول با حضور سم آلتمن و پالمر لاکی پخش شد]]></title>
+		<link>https://digiato.com/internet-network/founders-fund-mafia-game-show-sam-altman</link>
+		<guid isPermaLink="true">https://digiato.com/internet-network/founders-fund-mafia-game-show-sam-altman</guid>
+		<pubDate>Fri, 05 Jun 2026 08:30:00 +0000</pubDate>
+		<category><![CDATA[اینترنت و شبکه]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/mafia-gameshow-sam-atlman.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/mafia-gameshow-sam-atlman.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[لپ‌تاپ اچ‌پی با طراحی خاص فراری معرفی شد؛ بدنه شیشه‌ای با قیمت ۵۵۹۹ دلار!]]></title>
+		<link>https://digiato.com/laptop/hp-and-ferrari-limited-edition-laptop</link>
+		<guid isPermaLink="true">https://digiato.com/laptop/hp-and-ferrari-limited-edition-laptop</guid>
+		<pubDate>Fri, 05 Jun 2026 08:00:00 +0000</pubDate>
+		<category><![CDATA[لپ تاپ]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/HP-Fearrari-limited-edition-laptop-1.png.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/HP-Fearrari-limited-edition-laptop-1.png.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[گزارش کلودفلر: ترافیک وب بات‌ها برای اولین‌بار از انسان‌ها پیشی گرفت]]></title>
+		<link>https://digiato.com/internet-network/cloudflare-ceo-bot-internet-traffic-overtakes-humans</link>
+		<guid isPermaLink="true">https://digiato.com/internet-network/cloudflare-ceo-bot-internet-traffic-overtakes-humans</guid>
+		<pubDate>Fri, 05 Jun 2026 07:30:00 +0000</pubDate>
+		<category><![CDATA[اینترنت و شبکه]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/bot.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/bot.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[موتورولا +Edge 70 Pro معرفی شد؛ مجهز به دوربین تله‌فوتو پریسکوپی و دایمنسیتی 8500]]></title>
+		<link>https://digiato.com/mobile/motorola-edge-70-pro-plus-launched-in-india</link>
+		<guid isPermaLink="true">https://digiato.com/mobile/motorola-edge-70-pro-plus-launched-in-india</guid>
+		<pubDate>Fri, 05 Jun 2026 07:00:00 +0000</pubDate>
+		<category><![CDATA[موبایل]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Motorola-Edge-70-Pro-unveiled-3.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Motorola-Edge-70-Pro-unveiled-3.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[معماری جدید حافظه ChatGPT معرفی شد؛ هوشمندتر و کارآمدتر حتی در نسخه رایگان]]></title>
+		<link>https://digiato.com/artificial-intelligence/openai-chatgpt-new-dreaming-memory-architecture-free-tier</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/openai-chatgpt-new-dreaming-memory-architecture-free-tier</guid>
+		<pubDate>Fri, 05 Jun 2026 06:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/chatgpt.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/chatgpt.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[آنتروپیک خواستار توقف توسعه هوش مصنوعی در جهان شد؛ خطر خارج‌شدن AI از کنترل انسان]]></title>
+		<link>https://digiato.com/artificial-intelligence/anthropic-calls-global-pause-ai-development</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/anthropic-calls-global-pause-ai-development</guid>
+		<pubDate>Fri, 05 Jun 2026 06:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/ai.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/ai.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[اشتراک اینستاگرام پلاس با قیمت ماهانه ۳.۹۹ دلار به‌صورت عمومی عرضه شد]]></title>
+		<link>https://digiato.com/app/instagram-plus-launched-with-3-99-dollars-price</link>
+		<guid isPermaLink="true">https://digiato.com/app/instagram-plus-launched-with-3-99-dollars-price</guid>
+		<pubDate>Fri, 05 Jun 2026 05:40:25 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Instagram-plus-launched-2.png" type="image/png" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Instagram-plus-launched-2.png" medium="image" type="image/png" />
+	</item>
+	<item>
+		<title><![CDATA[اساتید دانشگاه استنفورد در پاسخگویی به سؤالات حقوقی از هوش مصنوعی شکست خوردند]]></title>
+		<link>https://digiato.com/artificial-intelligence/ai-outperforms-stanford-law-professors-study</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/ai-outperforms-stanford-law-professors-study</guid>
+		<pubDate>Thu, 04 Jun 2026 18:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/ai-outperforms-stanford-law-professors-study-۲.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/ai-outperforms-stanford-law-professors-study-۲.jpeg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[سازمان ملل: هوش مصنوعی تا ۲۰۳۰ می‌تواند معادل ۱.۳ میلیارد نفر آب مصرف کند]]></title>
+		<link>https://digiato.com/environment/ai-could-use-as-much-as-water-for-1-3-billion-people-by-2030</link>
+		<guid isPermaLink="true">https://digiato.com/environment/ai-could-use-as-much-as-water-for-1-3-billion-people-by-2030</guid>
+		<pubDate>Thu, 04 Jun 2026 15:00:00 +0000</pubDate>
+		<category><![CDATA[محیط زیست]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/ai-water-usage.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/ai-water-usage.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[مدیرعامل OpenAI: ‌هزینه توکن‌های هوش مصنوعی برای شرکت‌ها مسئله‌ای بغرنج شده است]]></title>
+		<link>https://digiato.com/artificial-intelligence/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue</guid>
+		<pubDate>Thu, 04 Jun 2026 14:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue-2.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/openai-ceo-sam-altman-admits-ai-token-costs-are-becoming-a-huge-issue-2.jpeg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: ۱۰ ورزشکار پردرآمد جهان در فصل ورزشی ۲۰۲۵/۲۶ + اینفوگرافی و جزییات]]></title>
+		<link>https://digiato.com/tech/worlds-highest-paid-athletes-2026</link>
+		<guid isPermaLink="true">https://digiato.com/tech/worlds-highest-paid-athletes-2026</guid>
+		<pubDate>Thu, 04 Jun 2026 14:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/05/Highest-Paid-Athletes_2026.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/05/Highest-Paid-Athletes_2026.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[آمازون از نسل جدید ربات انباردار Proteus با قابلیت درک زبان انسان رونمایی کرد]]></title>
+		<link>https://digiato.com/robotics/amazon-new-proteus-warehouse-robot-language</link>
+		<guid isPermaLink="true">https://digiato.com/robotics/amazon-new-proteus-warehouse-robot-language</guid>
+		<pubDate>Thu, 04 Jun 2026 14:00:00 +0000</pubDate>
+		<category><![CDATA[کیان]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Amazon-Proteus.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Amazon-Proteus.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[دسترسی به سرویس‌های تحریمی بیشتر شد؛ گراک و کلاد هم در دسترس قرار گرفتند]]></title>
+		<link>https://digiato.com/iran-technology-news/grok-claude-available-iran</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/grok-claude-available-iran</guid>
+		<pubDate>Thu, 04 Jun 2026 13:31:47 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/claude.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/claude.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[آنتروپیک و OpenAI خواستار پیشگیری از ساخت سلاح‌های بیولوژیک با هوش مصنوعی شدند]]></title>
+		<link>https://digiato.com/artificial-intelligence/ai-companies-letter-prevent-biological-weapons</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/ai-companies-letter-prevent-biological-weapons</guid>
+		<pubDate>Thu, 04 Jun 2026 13:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/openai-google-microsot-weapon-ai.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/openai-google-microsot-weapon-ai.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[مدیرعامل گوگل دیپ‌مایند: برای دوران جدید انسانی و هوش جامع مصنوعی آماده شوید]]></title>
+		<link>https://digiato.com/artificial-intelligence/google-deepmind-ceo-agi-2030-new-human-era</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/google-deepmind-ceo-agi-2030-new-human-era</guid>
+		<pubDate>Thu, 04 Jun 2026 13:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/google-deepmind-ceo-agi-2030-new-human-era-۱.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/google-deepmind-ceo-agi-2030-new-human-era-۱.jpeg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[قابلیت جدید آمازون: نوار جستجو برای توصیف کاربر تصویر هوش مصنوعی تولید می‌کند]]></title>
+		<link>https://digiato.com/internet-network/amazon-search-bar-ai-generated-products</link>
+		<guid isPermaLink="true">https://digiato.com/internet-network/amazon-search-bar-ai-generated-products</guid>
+		<pubDate>Thu, 04 Jun 2026 12:30:00 +0000</pubDate>
+		<category><![CDATA[اینترنت و شبکه]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/amzon-styles.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/amzon-styles.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[فرار از دوم‌اسکرولینگ؛ گوگل با اپ Dreambeans برای شما داستان شخصی می‌گوید [تماشا کنید]]]></title>
+		<link>https://digiato.com/artificial-intelligence/google-dreambeans-ai-personalized-stories</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/google-dreambeans-ai-personalized-stories</guid>
+		<pubDate>Thu, 04 Jun 2026 11:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/google-dreambeans.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/google-dreambeans.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[تحریم‌های اقتصادی آمریکا چه تاثیری بر کاربران ایرانی شرکت‌های تحریم شده دارد؟]]></title>
+		<link>https://digiato.com/cryptocurrency/sanctions-usa-iran-crypto-history</link>
+		<guid isPermaLink="true">https://digiato.com/cryptocurrency/sanctions-usa-iran-crypto-history</guid>
+		<pubDate>Thu, 04 Jun 2026 10:11:10 +0000</pubDate>
+		<category><![CDATA[کریپتوکارنسی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/usa-iran.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/usa-iran.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[سری جدید تبلت‌های ایسر Iconia Duo با تراشه دایمنسیتی ۸۳۰۰ معرفی شد]]></title>
+		<link>https://digiato.com/tablet/acer-unveils-iconia-duo-s14-s12-d12-tablets</link>
+		<guid isPermaLink="true">https://digiato.com/tablet/acer-unveils-iconia-duo-s14-s12-d12-tablets</guid>
+		<pubDate>Thu, 04 Jun 2026 10:00:00 +0000</pubDate>
+		<category><![CDATA[تبلت]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/KSP-5-1-KSP-with-Specs-XL.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/KSP-5-1-KSP-with-Specs-XL.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[اپل احتمالاً برای هوش مصنوعی سیری به سراغ تراشه‌های انویدیا می‌رود]]></title>
+		<link>https://digiato.com/artificial-intelligence/apple-siri-gemini-nvidia-blackwell-chips</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/apple-siri-gemini-nvidia-blackwell-chips</guid>
+		<pubDate>Thu, 04 Jun 2026 09:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-siri-nvidia-google.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-siri-nvidia-google.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[ساختمان جدید انستیتو کانسر ایران افتتاح شد؛ بزرگ‌ترین بیمارستان درمان سرطان در خاورمیانه]]></title>
+		<link>https://digiato.com/iran-technology-news/national-cancer-institute-hospital-tehran-inauguration</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/national-cancer-institute-hospital-tehran-inauguration</guid>
+		<pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/national-cancer-institute-hospital-tehran-inauguration-۱.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/national-cancer-institute-hospital-tehran-inauguration-۱.jpeg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[دسترسی به اسپاتیفای بدون vpn ممکن شد]]></title>
+		<link>https://digiato.com/iran-technology-news/spotify-now-availabale-on-iran</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/spotify-now-availabale-on-iran</guid>
+		<pubDate>Thu, 04 Jun 2026 08:40:20 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/spotify-available.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/spotify-available.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[اپلیکیشن TikTok Pro Events برای پوشش رویدادهای جام جهانی رونمایی شد]]></title>
+		<link>https://digiato.com/app/tiktok-pro-events-fifa-world-cup-app-launched</link>
+		<guid isPermaLink="true">https://digiato.com/app/tiktok-pro-events-fifa-world-cup-app-launched</guid>
+		<pubDate>Thu, 04 Jun 2026 08:30:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/tik-tok-desea-tantas-prohibiciones.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/tik-tok-desea-tantas-prohibiciones.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[مهاجمان همچنان با هوش مصنوعی متا اکانت‌های اینستاگرام را هک می‌کنند]]></title>
+		<link>https://digiato.com/security/instagram-accounts-continue-to-be-hacked</link>
+		<guid isPermaLink="true">https://digiato.com/security/instagram-accounts-continue-to-be-hacked</guid>
+		<pubDate>Thu, 04 Jun 2026 07:30:00 +0000</pubDate>
+		<category><![CDATA[امنیت]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/instagram-accounts-continue-to-be-hacked-۳.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/instagram-accounts-continue-to-be-hacked-۳.jpeg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: مروری بر پرافتخارترین قهرمانان تاریخ جام جهانی؛ کدام کشور بیشترین جام را دارد؟]]></title>
+		<link>https://digiato.com/tech/list-of-fifa-world-cup-winners</link>
+		<guid isPermaLink="true">https://digiato.com/tech/list-of-fifa-world-cup-winners</guid>
+		<pubDate>Thu, 04 Jun 2026 07:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/world-cup.jpg" type="image/jpeg" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/world-cup.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[مایکروسافت از Web IQ رونمایی کرد؛ تحول در اتصال ایجنت‌های هوش مصنوعی به داده‌های زنده وب]]></title>
+		<link>https://digiato.com/artificial-intelligence/microsoft-web-iq-bing-search-ai-agents</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/microsoft-web-iq-bing-search-ai-agents</guid>
+		<pubDate>Thu, 04 Jun 2026 07:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Microsoft-Web-IQ.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Microsoft-Web-IQ.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[متا با همکاری مایکروسافت و اسپیس ایکس حساب بیش از یک میلیون کلاهبردار را حذف کرد]]></title>
+		<link>https://digiato.com/security/meta-microsoft-spacex-doj-scam-accounts-takedown</link>
+		<guid isPermaLink="true">https://digiato.com/security/meta-microsoft-spacex-doj-scam-accounts-takedown</guid>
+		<pubDate>Thu, 04 Jun 2026 06:30:00 +0000</pubDate>
+		<category><![CDATA[امنیت]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/meta-instagram.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/meta-instagram.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: تاریخ انتشار فصل دوم اسپین‌آف فانتزی Outlander: Blood of My Blood اعلام شد]]></title>
+		<link>https://digiato.com/tech/outlander-blood-of-my-blood-2-season</link>
+		<guid isPermaLink="true">https://digiato.com/tech/outlander-blood-of-my-blood-2-season</guid>
+		<pubDate>Thu, 04 Jun 2026 06:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/Outlander-Blood-of-my-Blood-Jamie-Roy-032125-6cfaa16c75c74d9794f7060b048eba4d.jpg" type="image/jpeg" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/Outlander-Blood-of-my-Blood-Jamie-Roy-032125-6cfaa16c75c74d9794f7060b048eba4d.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[متا از ایجنت هوش مصنوعی برای مدیریت کسب‌وکارها در اینستاگرام و واتس‌اپ رونمایی کرد]]></title>
+		<link>https://digiato.com/artificial-intelligence/meta-business-agent-ai-tools-whatsapp-instagram</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/meta-business-agent-ai-tools-whatsapp-instagram</guid>
+		<pubDate>Thu, 04 Jun 2026 06:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/meta_instagram_ai.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/meta_instagram_ai.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[قیمت بیت‌کوین به ۶۳ هزار دلار سقوط کرد؛ کابوس کریپتو در میان تنش‌های نظامی]]></title>
+		<link>https://digiato.com/cryptocurrency/bitcoin-falls-middle-east-conflict-etf-outflows</link>
+		<guid isPermaLink="true">https://digiato.com/cryptocurrency/bitcoin-falls-middle-east-conflict-etf-outflows</guid>
+		<pubDate>Thu, 04 Jun 2026 05:36:46 +0000</pubDate>
+		<category><![CDATA[کریپتوکارنسی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/bitcoin-falls-middle-east-conflict-etf-outflows-1.jpeg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/bitcoin-falls-middle-east-conflict-etf-outflows-1.jpeg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: صورتحساب هفتگی ۳.۵ میلیون یورویی؛ دستمزد هر بازیکن پاری سن ژرمن چقدر است؟]]></title>
+		<link>https://digiato.com/tech/paris-saint-germain-players-wages-2026</link>
+		<guid isPermaLink="true">https://digiato.com/tech/paris-saint-germain-players-wages-2026</guid>
+		<pubDate>Wed, 03 Jun 2026 18:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/05/X4KP3BNYOFI7BKJ7XKRCIKCGHM.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/05/X4KP3BNYOFI7BKJ7XKRCIKCGHM.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[وب‌سایت یک میلیون دلاری: دانشجویی که با فروش پیکسل‌ها تاریخ‌ساز شد]]></title>
+		<link>https://digiato.com/app/the-million-dollar-homepage-story-how-alex-tew-sold-pixels</link>
+		<guid isPermaLink="true">https://digiato.com/app/the-million-dollar-homepage-story-how-alex-tew-sold-pixels</guid>
+		<pubDate>Wed, 03 Jun 2026 18:20:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/6096977794692202.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/6096977794692202.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[آرش کریم‌بیگی، مدیرعامل شاتل موبایل: اینترنت را نباید به چند سرویس داخلی تقلیل داد]]></title>
+		<link>https://digiato.com/video/arash-karimbeigis-interview-about-the-internet-and-filtering</link>
+		<guid isPermaLink="true">https://digiato.com/video/arash-karimbeigis-interview-about-the-internet-and-filtering</guid>
+		<pubDate>Wed, 03 Jun 2026 17:30:30 +0000</pubDate>
+		<category><![CDATA[ویدیو]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/کریم‌بیگی.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/کریم‌بیگی.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[تغییر رویکرد گوگل: وب‌سایت‌ها می‌توانند از بخش نتایج هوش مصنوعی خارج شوند]]></title>
+		<link>https://digiato.com/internet-network/google-ai-search-results-opt-out</link>
+		<guid isPermaLink="true">https://digiato.com/internet-network/google-ai-search-results-opt-out</guid>
+		<pubDate>Wed, 03 Jun 2026 17:00:00 +0000</pubDate>
+		<category><![CDATA[اینترنت و شبکه]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/google-ai-results.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/google-ai-results.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: RQ-180 White Bat؛ پهپاد پنهانکار آمریکا با بدنه‌ای بر اساس بمب‌افکن B-2 Spirit]]></title>
+		<link>https://digiato.com/tech/rq-180-white-bat</link>
+		<guid isPermaLink="true">https://digiato.com/tech/rq-180-white-bat</guid>
+		<pubDate>Wed, 03 Jun 2026 15:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/04/RQ-180-White-Bat.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/04/RQ-180-White-Bat.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: تعداد نیروهای آمریکایی مستقر در قاره اروپا به تفکیک ۳۹ کشور + اینفوگرافی]]></title>
+		<link>https://digiato.com/tech/u-s-troops-stationed-europe</link>
+		<guid isPermaLink="true">https://digiato.com/tech/u-s-troops-stationed-europe</guid>
+		<pubDate>Wed, 03 Jun 2026 14:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/05/us-troops-in-europe.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/05/us-troops-in-europe.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: سهم هر کشور جهان از هزینه نظامی ۲.۹ تریلیون دلاری در سال ۲۰۲۵ + اینفوگرافی]]></title>
+		<link>https://digiato.com/tech/military-spending-by-country-2025</link>
+		<guid isPermaLink="true">https://digiato.com/tech/military-spending-by-country-2025</guid>
+		<pubDate>Wed, 03 Jun 2026 07:57:15 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/Military-Spending_World.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/Military-Spending_World.webp" medium="image" type="image/webp" />
+	</item>
+</channel>
+</rss>
