@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sat, 06 Jun 2026 20:07:59 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Jun 2026 20:50:06 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.4.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -35,8 +35,8 @@
 		<pubDate>Sat, 06 Jun 2026 17:00:00 +0000</pubDate>
 		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/TSMC-mocked-Samsung-2.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/TSMC-mocked-Samsung-2.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/TSMC-mocked-Samsung-2-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/TSMC-mocked-Samsung-2-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[خداحافظی با اینتل؛ از macOS 27 چه چیزهایی می‌دانیم؟]]></title>
