@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sat, 06 Jun 2026 12:08:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Jun 2026 12:49:33 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.2.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[سرقت بی‌اجازه ترافیک کاربران؛ کلاد و اسپاتیفای چطور در دسترس قرار گرفتند؟]]></title>
+		<link>https://digiato.com/iran-technology-news/technical-review-access-sanctioned-platforms</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/technical-review-access-sanctioned-platforms</guid>
+		<pubDate>Sat, 06 Jun 2026 12:22:01 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/imageee.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/imageee.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[درون گجت‌های تقلبی اپل چگونه است؟ کالبدشکافی ساعت و ایرپاد فیک [تماشا کنید]]]></title>
 		<link>https://digiato.com/gadgets/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro</link>
@@ -15,8 +25,8 @@
 		<pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
 		<category><![CDATA[گجت ها]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro-۱.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro-۱.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro-۱-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro-۱-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[احتمال همکاری آنتروپیک با آژانس امنیت ملی آمریکا قوت گرفت؛ استفاده از Mythos در پروژه‌‌های دولتی]]></title>
