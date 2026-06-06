@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sat, 06 Jun 2026 11:50:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Jun 2026 12:08:17 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.2.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[درون گجت‌های تقلبی اپل چگونه است؟ کالبدشکافی ساعت و ایرپاد فیک [تماشا کنید]]]></title>
+		<link>https://digiato.com/gadgets/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro</link>
+		<guid isPermaLink="true">https://digiato.com/gadgets/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro</guid>
+		<pubDate>Sat, 06 Jun 2026 12:00:00 +0000</pubDate>
+		<category><![CDATA[گجت ها]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro-۱.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/ifixit-teardown-fake-apple-watch-ultra-airpods-max-pro-۱.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[احتمال همکاری آنتروپیک با آژانس امنیت ملی آمریکا قوت گرفت؛ استفاده از Mythos در پروژه‌‌های دولتی]]></title>
 		<link>https://digiato.com/artificial-intelligence/nsa-to-use-mythos-cybersecurity-ai</link>
@@ -15,8 +25,8 @@
 		<pubDate>Sat, 06 Jun 2026 11:30:00 +0000</pubDate>
 		<category><![CDATA[هوش مصنوعی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/mythos-ai-nsa-contract-1.jpeg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/mythos-ai-nsa-contract-1.jpeg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/mythos-ai-nsa-contract-1-330x200.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/mythos-ai-nsa-contract-1-330x200.jpeg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[معاون ارتباطات دفتر رئیس‌جمهور: پزشکیان با محدودیت اینترنت پس از جنگ موافق نبود]]></title>
@@ -25,8 +35,8 @@
 		<pubDate>Sat, 06 Jun 2026 11:17:29 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/tabatabaee.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/tabatabaee.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/tabatabaee-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/tabatabaee-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[کاسیو از ساعت جدید Edifice با همکاری Toyota Racing رونمایی کرد]]></title>
@@ -105,8 +115,8 @@
 		<pubDate>Sat, 06 Jun 2026 06:06:48 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/WorldsMostMilitarizedEconomy2026.webp" type="image/webp" />
-		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/WorldsMostMilitarizedEconomy2026.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/WorldsMostMilitarizedEconomy2026-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/WorldsMostMilitarizedEconomy2026-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[نماینده مجلس وزیر ارتباطات را تهدید به استیضاح کرد: وصل کردن اینترنت خلاف قانون بود]]></title>
