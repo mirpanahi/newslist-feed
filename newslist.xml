@@ -5,9 +5,59 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sat, 06 Jun 2026 12:49:33 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 06 Jun 2026 16:34:36 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.2.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[خداحافظی با اینتل؛ از macOS 27 چه چیزهایی می‌دانیم؟]]></title>
+		<link>https://digiato.com/app/everything-about-macos-27-update-before-wwdc26</link>
+		<guid isPermaLink="true">https://digiato.com/app/everything-about-macos-27-update-before-wwdc26</guid>
+		<pubDate>Sat, 06 Jun 2026 16:30:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Macos-27-update-before-wwdc-2.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Macos-27-update-before-wwdc-2.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[زنگ خطر برای اینتل؛ سهم پردازنده‌های AMD در استیم به ۴۵ درصد رسید]]></title>
+		<link>https://digiato.com/computers-hardware/amd-hits-45-percent-cpu-share-steam-survey</link>
+		<guid isPermaLink="true">https://digiato.com/computers-hardware/amd-hits-45-percent-cpu-share-steam-survey</guid>
+		<pubDate>Sat, 06 Jun 2026 15:30:00 +0000</pubDate>
+		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/AMD-Ryzen-Desktop-CPUs.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/AMD-Ryzen-Desktop-CPUs.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[نسخه پولی مرورگر Brave معرفی شد: ۶۰ دلار برای حذف کردن قابلیت‌ها]]></title>
+		<link>https://digiato.com/app/brave-origin-60-dollars-subscription</link>
+		<guid isPermaLink="true">https://digiato.com/app/brave-origin-60-dollars-subscription</guid>
+		<pubDate>Sat, 06 Jun 2026 14:30:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/brave-origin-subscription-2.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/brave-origin-subscription-2.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[نگاه نزدیک به اولین لپ‌تاپ‌ها و مینی‌پی‌سی‌های RTX Spark معرفی‌شده در کامپیوتکس]]></title>
+		<link>https://digiato.com/computers-hardware/nvidia-rtx-spark-laptops-mini-pcs-computex-hands-on</link>
+		<guid isPermaLink="true">https://digiato.com/computers-hardware/nvidia-rtx-spark-laptops-mini-pcs-computex-hands-on</guid>
+		<pubDate>Sat, 06 Jun 2026 13:30:00 +0000</pubDate>
+		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/nvidia-rtx-spark-og-1200x630-1.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/nvidia-rtx-spark-og-1200x630-1.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[وزیر گردشگری: بازگشایی اینترنت به افزایش رضایت عمومی کمک کرد]]></title>
+		<link>https://digiato.com/iran-technology-news/tourism-minister-internet-restoration</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/tourism-minister-internet-restoration</guid>
+		<pubDate>Sat, 06 Jun 2026 13:28:33 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/وزیر-ارتباطات-و-گردشگری.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/وزیر-ارتباطات-و-گردشگری.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[سرقت بی‌اجازه ترافیک کاربران؛ کلاد و اسپاتیفای چطور در دسترس قرار گرفتند؟]]></title>
 		<link>https://digiato.com/iran-technology-news/technical-review-access-sanctioned-platforms</link>
@@ -15,8 +65,8 @@
 		<pubDate>Sat, 06 Jun 2026 12:22:01 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/imageee.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/imageee.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/imageee-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/imageee-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[درون گجت‌های تقلبی اپل چگونه است؟ کالبدشکافی ساعت و ایرپاد فیک [تماشا کنید]]]></title>
@@ -157,6 +207,16 @@
 		<source url="https://iotechoi.com/newslist">Digiato</source>
 		<enclosure url="https://static.digiato.com/digiato/2026/06/AI-mental-health-support1.jpg.webp" type="image/webp" />
 		<media:content url="https://static.digiato.com/digiato/2026/06/AI-mental-health-support1.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: ۵ سلاح هایپرسونیک جدید ایالات متحده در رقابت برای پیروزی در نبردهای آینده]]></title>
+		<link>https://digiato.com/tech/5-next-gen-us-hypersonic-weapons</link>
+		<guid isPermaLink="true">https://digiato.com/tech/5-next-gen-us-hypersonic-weapons</guid>
+		<pubDate>Fri, 05 Jun 2026 18:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/05/Navys-HALO-missile-6.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/05/Navys-HALO-missile-6.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[مدیرعامل سافت‌بانک: هوش مصنوعی درحال توسعه مدل بعدی OpenAI است]]></title>
