@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sun, 07 Jun 2026 15:15:15 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Jun 2026 15:45:14 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[فایزر برای کشف سریع‌تر داروهای جدید با استارتاپ هوش مصنوعی Chai همکاری می‌کند]]></title>
+		<link>https://digiato.com/artificial-intelligence/pfizer-eli-lilly-chai-discovery-ai-startup</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/pfizer-eli-lilly-chai-discovery-ai-startup</guid>
+		<pubDate>Sun, 07 Jun 2026 15:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/pfizer-eli-lilly-chai-discovery-ai-startup-۲.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/pfizer-eli-lilly-chai-discovery-ai-startup-۲.jpeg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[دقیق‌ترین تصاویر از ماکت آیفون تاشو فاش شد؛ دوربین سلفی به سبک گوشی‌های اندرویدی]]></title>
 		<link>https://digiato.com/mobile/apple-foldable-iphone-ultra-design-leaked</link>
@@ -15,8 +25,8 @@
 		<pubDate>Sun, 07 Jun 2026 15:00:00 +0000</pubDate>
 		<category><![CDATA[موبایل]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/iphone-ultra.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/iphone-ultra.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/iphone-ultra-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/iphone-ultra-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[ال‌جی از مانیتور ۲۴ اینچی ۱۴۴ هرتزی با قیمت زیر ۱۰۰ دلار رونمایی کرد]]></title>
