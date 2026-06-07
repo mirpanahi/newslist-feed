@@ -5,9 +5,49 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sun, 07 Jun 2026 10:55:15 +0000</lastBuildDate>
-	<generator>NewsList Aggregator 1.5.0</generator>
+	<lastBuildDate>Sun, 07 Jun 2026 11:35:41 +0000</lastBuildDate>
+	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[پلیس انگلیس و ولز از تهیه پرونده‌های قضایی با هوش مصنوعی منع شدند]]></title>
+		<link>https://digiato.com/artificial-intelligence/uk-police-halt-ai-use-court-statements</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/uk-police-halt-ai-use-court-statements</guid>
+		<pubDate>Sun, 07 Jun 2026 11:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/uk-police-halt-ai-use-court-statements-۱.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/uk-police-halt-ai-use-court-statements-۱.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[بانک و بیمه در گذار از حضور در شعبه به حضور در شبکه]]></title>
+		<link>https://digiato.com/iran-technology-news/banks-insurance-transition-branch-presence-network-presence</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/banks-insurance-transition-branch-presence-network-presence</guid>
+		<pubDate>Sun, 07 Jun 2026 11:01:47 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/bank.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/bank.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[تصاویر جدید گلکسی A27 سامسونگ در یک رنگ تازه و جذاب فاش شد]]></title>
+		<link>https://digiato.com/mobile/samsung-galaxy-a27-new-color</link>
+		<guid isPermaLink="true">https://digiato.com/mobile/samsung-galaxy-a27-new-color</guid>
+		<pubDate>Sun, 07 Jun 2026 11:00:00 +0000</pubDate>
+		<category><![CDATA[موبایل]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/galaxy-a27-samsung.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/galaxy-a27-samsung.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[وب‌سایت طرفداری پس از دو ماه در دسترس قرار گرفت]]></title>
+		<link>https://digiato.com/iran-technology-news/tarafdari-website-back-online-after-two-month-outage</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/tarafdari-website-back-online-after-two-month-outage</guid>
+		<pubDate>Sun, 07 Jun 2026 10:58:38 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/7856dd7f-855a-4e08-86c4-73b9461e12c6.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/7856dd7f-855a-4e08-86c4-73b9461e12c6.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[قیمت روز پرفروش‌ترین گوشی‌های بازار ایران [17 خرداد 1405]]]></title>
 		<link>https://digiato.com/mobile/best-selling-phones-price-today-iran</link>
@@ -15,8 +55,8 @@
 		<pubDate>Sun, 07 Jun 2026 10:30:00 +0000</pubDate>
 		<category><![CDATA[موبایل]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/05/phone-n2.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/05/phone-n2.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/05/phone-n2-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/05/phone-n2-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[مدیرعامل مایکروسافت تکذیب کرد: تلاش ما معتاد کردن کاربران به هوش مصنوعی نیست]]></title>
@@ -197,6 +237,16 @@
 		<source url="https://iotechoi.com/newslist">Digiato</source>
 		<enclosure url="https://static.digiato.com/digiato/2026/06/Macos-27-update-before-wwdc-2-330x200.jpg.webp" type="image/webp" />
 		<media:content url="https://static.digiato.com/digiato/2026/06/Macos-27-update-before-wwdc-2-330x200.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: نرخ تورم پیش‌بینی شده در ۲۰ اقتصاد بزرگ جهان در سال ۲۰۲۶ + اینفوگرافی]]></title>
+		<link>https://digiato.com/tech/inflation-forecasts-g20-2026</link>
+		<guid isPermaLink="true">https://digiato.com/tech/inflation-forecasts-g20-2026</guid>
+		<pubDate>Sat, 06 Jun 2026 15:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/G20_Inflation_vs_Nominal_GDP-2026.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/G20_Inflation_vs_Nominal_GDP-2026.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[زنگ خطر برای اینتل؛ سهم پردازنده‌های AMD در استیم به ۴۵ درصد رسید]]></title>
