@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sun, 07 Jun 2026 12:25:05 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Jun 2026 12:50:23 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[قیمت روز بهترین گوشی‌های سامسونگ؛ از اقتصادی تا پرچمدار [17 خرداد 1405]]]></title>
+		<link>https://digiato.com/tech/samsung-phone-prices-iran</link>
+		<guid isPermaLink="true">https://digiato.com/tech/samsung-phone-prices-iran</guid>
+		<pubDate>Sun, 07 Jun 2026 12:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/05/phone-sam-4.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/05/phone-sam-4.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[انتقاد فعالان بازار آنلاین طلا از تعلل بانک مرکزی در معرفی خزانه‌های جدید]]></title>
+		<link>https://digiato.com/iran-technology-news/central-bank-has-not-introduced-new-gold-vaults-for-online-platforms</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/central-bank-has-not-introduced-new-gold-vaults-for-online-platforms</guid>
+		<pubDate>Sun, 07 Jun 2026 12:28:07 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-07_15-55-59.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-07_15-55-59.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[پلیس انگلیس و ولز از تهیه پرونده‌های قضایی با هوش مصنوعی منع شدند]]></title>
 		<link>https://digiato.com/artificial-intelligence/uk-police-halt-ai-use-court-statements</link>
