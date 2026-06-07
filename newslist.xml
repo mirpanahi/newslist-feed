@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sun, 07 Jun 2026 14:50:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Jun 2026 15:15:15 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[دقیق‌ترین تصاویر از ماکت آیفون تاشو فاش شد؛ دوربین سلفی به سبک گوشی‌های اندرویدی]]></title>
+		<link>https://digiato.com/mobile/apple-foldable-iphone-ultra-design-leaked</link>
+		<guid isPermaLink="true">https://digiato.com/mobile/apple-foldable-iphone-ultra-design-leaked</guid>
+		<pubDate>Sun, 07 Jun 2026 15:00:00 +0000</pubDate>
+		<category><![CDATA[موبایل]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/iphone-ultra.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/iphone-ultra.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[ال‌جی از مانیتور ۲۴ اینچی ۱۴۴ هرتزی با قیمت زیر ۱۰۰ دلار رونمایی کرد]]></title>
 		<link>https://digiato.com/gadgets/lg-24u411b-24-inch-fhd-144hz-monitor</link>
@@ -15,8 +25,8 @@
 		<pubDate>Sun, 07 Jun 2026 14:30:00 +0000</pubDate>
 		<category><![CDATA[گجت ها]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/lg-24u411b-24-inch-fhd-144hz-monitor-۲.jpeg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/lg-24u411b-24-inch-fhd-144hz-monitor-۲.jpeg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/lg-24u411b-24-inch-fhd-144hz-monitor-۲-330x200.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/lg-24u411b-24-inch-fhd-144hz-monitor-۲-330x200.jpeg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[«رینگ»، پتلفرم جدید آگهی آنلاین وارد بازار شد]]></title>
