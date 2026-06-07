@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sun, 07 Jun 2026 10:10:23 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Jun 2026 10:55:15 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.5.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[قیمت روز پرفروش‌ترین گوشی‌های بازار ایران [17 خرداد 1405]]]></title>
+		<link>https://digiato.com/mobile/best-selling-phones-price-today-iran</link>
+		<guid isPermaLink="true">https://digiato.com/mobile/best-selling-phones-price-today-iran</guid>
+		<pubDate>Sun, 07 Jun 2026 10:30:00 +0000</pubDate>
+		<category><![CDATA[موبایل]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/05/phone-n2.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/05/phone-n2.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[مدیرعامل مایکروسافت تکذیب کرد: تلاش ما معتاد کردن کاربران به هوش مصنوعی نیست]]></title>
 		<link>https://digiato.com/artificial-intelligence/microsoft-nadella-denies-ai-addiction-claims-agentic-future</link>
@@ -15,8 +25,8 @@
 		<pubDate>Sun, 07 Jun 2026 10:00:00 +0000</pubDate>
 		<category><![CDATA[هوش مصنوعی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/satya-nadella-ai-scout.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/satya-nadella-ai-scout.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/satya-nadella-ai-scout-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/satya-nadella-ai-scout-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[بهروزآذر: اگر شجاعت وزیر ارتباطات نبود، مسئله اینترنت حل نمی‌شد]]></title>
@@ -25,8 +35,8 @@
 		<pubDate>Sun, 07 Jun 2026 09:48:17 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/178082420666273000.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/178082420666273000.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/178082420666273000-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/178082420666273000-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[هشدار مدیر لکسار: قیمت حافظه رم تا پایان ۲۰۲۶ دو برابر می‌شود]]></title>
