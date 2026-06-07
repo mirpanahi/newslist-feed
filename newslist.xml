@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Sun, 07 Jun 2026 07:40:12 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Jun 2026 08:08:06 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.5.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[دستگاه‌های اجرایی ملزم به استفاده از پیام‌رسان‌های داخلی برای ارائه خدمات پرکاربرد شدند]]></title>
+		<link>https://digiato.com/iran-technology-news/iran-cabinet-approves-domestic-messengers-for-public-services</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/iran-cabinet-approves-domestic-messengers-for-public-services</guid>
+		<pubDate>Sun, 07 Jun 2026 08:01:41 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/1401122420271175727246684.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/1401122420271175727246684.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[ChatGPT سوپراپلیکیشن می‌شود؛ بلندپروازی OpenAI پیش از ورود به بورس]]></title>
+		<link>https://digiato.com/app/openai-chatgpt-superapp-overhaul-ipo</link>
+		<guid isPermaLink="true">https://digiato.com/app/openai-chatgpt-superapp-overhaul-ipo</guid>
+		<pubDate>Sun, 07 Jun 2026 08:00:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/openai-chatgpt-superapp-overhaul-ipo-3.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/openai-chatgpt-superapp-overhaul-ipo-3.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[وزارت نیرو: فعلاً برنامه‌ای برای خاموشی نداریم؛ برق ارزان مصرف را بالا برده است]]></title>
 		<link>https://digiato.com/iran-technology-news/electricity-blackout-plan-prices-consumption-iran</link>
@@ -15,8 +35,8 @@
 		<pubDate>Sun, 07 Jun 2026 07:05:18 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/مصطفی-رجبی.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/مصطفی-رجبی.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/مصطفی-رجبی-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/مصطفی-رجبی-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[ترامپ خواستار استفاده از پیشرفته‌ترین ابزارهای هوش مصنوعی در ارتش آمریکا شد]]></title>
