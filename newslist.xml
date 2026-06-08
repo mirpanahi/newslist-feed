@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 05:10:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 05:40:16 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[اولین تصویر واقعی و مشخصات گلکسی S26 FE سامسونگ فاش شد]]></title>
+		<link>https://digiato.com/mobile/samsung-galaxy-s26-fe-first-look-specs</link>
+		<guid isPermaLink="true">https://digiato.com/mobile/samsung-galaxy-s26-fe-first-look-specs</guid>
+		<pubDate>Mon, 08 Jun 2026 05:31:24 +0000</pubDate>
+		<category><![CDATA[موبایل]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/galaxy-s26-fe-wpc-1.jpg-1.jpeg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/galaxy-s26-fe-wpc-1.jpg-1.jpeg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[از سنسور توپ تا آفساید نیمه‌خودکار؛ فناوری‌های جدید جام جهانی ۲۰۲۶ کدام‌اند؟]]></title>
 		<link>https://digiato.com/artificial-intelligence/world-cup-2026-new-technologies-ai</link>
@@ -45,8 +55,8 @@
 		<pubDate>Sun, 07 Jun 2026 14:30:00 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/Screenshot-2026-04-07-at-12.39.41-AM.webp" type="image/webp" />
-		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/Screenshot-2026-04-07-at-12.39.41-AM.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Screenshot-2026-04-07-at-12.39.41-AM-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Screenshot-2026-04-07-at-12.39.41-AM-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[ال‌جی از مانیتور ۲۴ اینچی ۱۴۴ هرتزی با قیمت زیر ۱۰۰ دلار رونمایی کرد]]></title>
