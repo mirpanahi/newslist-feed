@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 16:25:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 16:55:06 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -15,8 +15,8 @@
 		<pubDate>Mon, 08 Jun 2026 16:05:00 +0000</pubDate>
 		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-m5-ultra-wwdc-2026-specs-ai.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/apple-m5-ultra-wwdc-2026-specs-ai.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-m5-ultra-wwdc-2026-specs-ai-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-m5-ultra-wwdc-2026-specs-ai-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[عرضه کارت‌های گرافیک RDNA 5 احتمالاً به اواخر ۲۰۲۷ یا اوایل ۲۰۲۸ موکول می‌شود]]></title>
@@ -25,8 +25,8 @@
 		<pubDate>Mon, 08 Jun 2026 16:00:00 +0000</pubDate>
 		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/AMD-RDNA-5.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/AMD-RDNA-5.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/AMD-RDNA-5-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/AMD-RDNA-5-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[مانیتورهای جدید AntGamer از راه رسیدند؛ مدل ۱۰۰۰ هرتزی با پنل RGB Mini LED]]></title>
