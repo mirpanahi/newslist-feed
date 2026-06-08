@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 12:40:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 13:05:14 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[با موزه مجازی سیستم‌عامل‌ها آشنا شوید؛ سفر به تاریخ کامپیوترها با ۱۷۰۰ شبیه‌ساز آماده اجرا]]></title>
+		<link>https://digiato.com/internet-network/virtual-os-museum</link>
+		<guid isPermaLink="true">https://digiato.com/internet-network/virtual-os-museum</guid>
+		<pubDate>Mon, 08 Jun 2026 13:00:00 +0000</pubDate>
+		<category><![CDATA[اینترنت و شبکه]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/The-Virtual-OS-Museum.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/The-Virtual-OS-Museum.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[لیست قیمت لپ‌تاپ‌های پرفروش بازار ایران؛ از مدل‌های اقتصادی تا گیمینگ [18 خرداد 1405]]]></title>
 		<link>https://digiato.com/laptop/laptop-price-list-iran</link>
@@ -15,8 +25,8 @@
 		<pubDate>Mon, 08 Jun 2026 12:30:00 +0000</pubDate>
 		<category><![CDATA[لپ تاپ]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/02/list-for-laptop2.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/02/list-for-laptop2.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/02/list-for-laptop2-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/02/list-for-laptop2-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[تجربیاتی که باید از آنها درس گرفت: قطع اینترنت راه حل نیست]]></title>
@@ -25,8 +35,8 @@
 		<pubDate>Mon, 08 Jun 2026 12:14:57 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-4.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-4.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-4-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-4-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[معاون ارتباطات دفتر معاون اول: خیال‌تان راحت؛ اینترنت قطع نمی‌شود]]></title>
