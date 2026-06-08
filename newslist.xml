@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 13:05:14 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 13:30:06 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -15,8 +15,8 @@
 		<pubDate>Mon, 08 Jun 2026 13:00:00 +0000</pubDate>
 		<category><![CDATA[اینترنت و شبکه]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/The-Virtual-OS-Museum.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/The-Virtual-OS-Museum.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/The-Virtual-OS-Museum-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/The-Virtual-OS-Museum-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[لیست قیمت لپ‌تاپ‌های پرفروش بازار ایران؛ از مدل‌های اقتصادی تا گیمینگ [18 خرداد 1405]]]></title>
