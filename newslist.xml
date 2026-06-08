@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 06:30:16 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 06:55:23 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[بنیان‌گذار علی‌بابا: امنیت با بستن اینترنت مردم تامین نمی‌شود]]></title>
+		<link>https://digiato.com/iran-technology-news/security-cannot-ensured-shutting-down-people-internet</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/security-cannot-ensured-shutting-down-people-internet</guid>
+		<pubDate>Mon, 08 Jun 2026 06:51:46 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-7.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-7.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[باگ ترسناک ChatGPT؛ تصاویر خیالی هوش مصنوعی کاربران را به وحشت انداخت]]></title>
+		<link>https://digiato.com/artificial-intelligence/chatgpt-nightmare-image-generation-hallucination-bug</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/chatgpt-nightmare-image-generation-hallucination-bug</guid>
+		<pubDate>Mon, 08 Jun 2026 06:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/chatgpt-nightmare-image-generation-hallucination-bug-۲.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/chatgpt-nightmare-image-generation-hallucination-bug-۲.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[پروازهای اکثر فرودگاه‌های کشور لغو شد]]></title>
 		<link>https://digiato.com/iran-technology-news/iran-airports-flights-cancelled-israel-attack-response</link>
@@ -15,8 +35,8 @@
 		<pubDate>Mon, 08 Jun 2026 06:25:11 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/مهرآباد.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/مهرآباد.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/مهرآباد-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/مهرآباد-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[نسخه ویژه ایکس‌باکس به مناسبت ۲۵ سالگی کنسول مایکروسافت معرفی شد [تماشا کنید]]]></title>
