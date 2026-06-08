@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 06:55:23 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 07:25:20 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[زنو؛ همراه رهیدگان سوختگی در مسیر بازگشت به زندگی]]></title>
+		<link>https://digiato.com/iran-technology-news/about-zeno-who-helps-fuel-accident-victims</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/about-zeno-who-helps-fuel-accident-victims</guid>
+		<pubDate>Mon, 08 Jun 2026 07:16:45 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-08_10-41-11.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-08_10-41-11.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[هشدار کارشناسان: ChatGPT کاربران را به وب‌سایت‌های کلاهبرداری هدایت می‌کند]]></title>
+		<link>https://digiato.com/artificial-intelligence/chatgpt-ai-shopping-scams-fake-websites</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/chatgpt-ai-shopping-scams-fake-websites</guid>
+		<pubDate>Mon, 08 Jun 2026 07:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/ChatGPT-1.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/ChatGPT-1.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[بنیان‌گذار علی‌بابا: امنیت با بستن اینترنت مردم تامین نمی‌شود]]></title>
 		<link>https://digiato.com/iran-technology-news/security-cannot-ensured-shutting-down-people-internet</link>
@@ -15,8 +35,8 @@
 		<pubDate>Mon, 08 Jun 2026 06:51:46 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-7.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-7.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-7-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-7-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[باگ ترسناک ChatGPT؛ تصاویر خیالی هوش مصنوعی کاربران را به وحشت انداخت]]></title>
@@ -25,8 +45,8 @@
 		<pubDate>Mon, 08 Jun 2026 06:30:00 +0000</pubDate>
 		<category><![CDATA[هوش مصنوعی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/chatgpt-nightmare-image-generation-hallucination-bug-۲.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/chatgpt-nightmare-image-generation-hallucination-bug-۲.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/chatgpt-nightmare-image-generation-hallucination-bug-۲-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/chatgpt-nightmare-image-generation-hallucination-bug-۲-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[پروازهای اکثر فرودگاه‌های کشور لغو شد]]></title>
