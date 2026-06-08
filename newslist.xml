@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 12:10:16 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 12:40:24 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[لیست قیمت لپ‌تاپ‌های پرفروش بازار ایران؛ از مدل‌های اقتصادی تا گیمینگ [18 خرداد 1405]]]></title>
+		<link>https://digiato.com/laptop/laptop-price-list-iran</link>
+		<guid isPermaLink="true">https://digiato.com/laptop/laptop-price-list-iran</guid>
+		<pubDate>Mon, 08 Jun 2026 12:30:00 +0000</pubDate>
+		<category><![CDATA[لپ تاپ]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/02/list-for-laptop2.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/02/list-for-laptop2.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[تجربیاتی که باید از آنها درس گرفت: قطع اینترنت راه حل نیست]]></title>
+		<link>https://digiato.com/iran-technology-news/do-not-cut-internet-again</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/do-not-cut-internet-again</guid>
+		<pubDate>Mon, 08 Jun 2026 12:14:57 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-4.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/digipic-not-connect-4.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[معاون ارتباطات دفتر معاون اول: خیال‌تان راحت؛ اینترنت قطع نمی‌شود]]></title>
 		<link>https://digiato.com/iran-technology-news/no-plan-for-nationwide-internet-shutdown</link>
@@ -15,8 +35,8 @@
 		<pubDate>Mon, 08 Jun 2026 11:42:48 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/پازوکی.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/پازوکی.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/پازوکی-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/پازوکی-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[جزئیات جلسه مهم اپل در سال ۲۰۲۵ برای مدیریت بحران هوش مصنوعی فاش شد]]></title>
