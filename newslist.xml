@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 10:10:13 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 10:35:06 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -15,8 +15,8 @@
 		<pubDate>Mon, 08 Jun 2026 09:45:00 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/golemoon.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/golemoon.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/golemoon-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/golemoon-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[چگونه طلا و نقره خود را به دیجی‌کالا بفروشیم؟]]></title>
@@ -299,7 +299,7 @@
 		<media:content url="https://static.digiato.com/digiato/2026/06/7856dd7f-855a-4e08-86c4-73b9461e12c6-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
-		<title><![CDATA[قیمت روز پرفروش‌ترین گوشی‌های بازار ایران [17 خرداد 1405]]]></title>
+		<title><![CDATA[قیمت روز پرفروش‌ترین گوشی‌های بازار ایران [18 خرداد 1405]]]></title>
 		<link>https://digiato.com/mobile/best-selling-phones-price-today-iran</link>
 		<guid isPermaLink="true">https://digiato.com/mobile/best-selling-phones-price-today-iran</guid>
 		<pubDate>Sun, 07 Jun 2026 10:30:00 +0000</pubDate>
