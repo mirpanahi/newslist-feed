@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-	<title><![CDATA[NewsList — Digiato Tech]]></title>
+	<title><![CDATA[NewsList — Tech]]></title>
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 11:00:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Jun 2026 11:40:26 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[جزئیات جلسه مهم اپل در سال ۲۰۲۵ برای مدیریت بحران هوش مصنوعی فاش شد]]></title>
+		<link>https://digiato.com/artificial-intelligence/apple-secret-meeting-siri-ai-strategy</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/apple-secret-meeting-siri-ai-strategy</guid>
+		<pubDate>Mon, 08 Jun 2026 11:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-intellegince.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-intellegince.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[طراحی دایمنسیتی ۹۵۰۰ در قلب RTX Spark؛ راهکار انویدیا برای مدیریت پردازش‌های سنگین]]></title>
+		<link>https://digiato.com/computers-hardware/nvidia-rtx-spark-cortex-x925-dimensity-features</link>
+		<guid isPermaLink="true">https://digiato.com/computers-hardware/nvidia-rtx-spark-cortex-x925-dimensity-features</guid>
+		<pubDate>Mon, 08 Jun 2026 11:00:00 +0000</pubDate>
+		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/RTX-Spark.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/RTX-Spark.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[هدیه دادن در عصر دیجیتال؛ خرید گل هم آنلاین شد]]></title>
 		<link>https://digiato.com/tech/buy-flowers-online-with-golemoon</link>
@@ -157,6 +177,16 @@
 		<source url="https://iotechoi.com/newslist">Digiato</source>
 		<enclosure url="https://static.digiato.com/digiato/2026/06/world-cup-2026-tech-330x200.jpg.webp" type="image/webp" />
 		<media:content url="https://static.digiato.com/digiato/2026/06/world-cup-2026-tech-330x200.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: تصاویر دیده‌نشده تاریخ جام جهانی؛ از پنالتی تلخ باره‌سی تا قابی که پوتین خراب کرد]]></title>
+		<link>https://digiato.com/tech/world-cup-photos-never-seen</link>
+		<guid isPermaLink="true">https://digiato.com/tech/world-cup-photos-never-seen</guid>
+		<pubDate>Sun, 07 Jun 2026 16:30:37 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/world-cup-photos-never-seen-1.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/world-cup-photos-never-seen-1.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[روزیاتو: ساخت نسخه سریالی تریلر جنایی Cop Land با بازی سیلوستر استالونه تایید شد]]></title>
