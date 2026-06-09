@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 07:45:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 08:15:24 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[کاربران اپل برای آزمایش Siri AI باید در صف انتظار قرار بگیرند]]></title>
+		<link>https://digiato.com/artificial-intelligence/apple-ios-27-beta-siri-ai-waitlist</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/apple-ios-27-beta-siri-ai-waitlist</guid>
+		<pubDate>Tue, 09 Jun 2026 08:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Siri-Waitlist.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Siri-Waitlist.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[وزیر ارتباطات: دنبال شفاف‌سازی فرایند محدودیت اینترنت هستیم؛ قطعی باید زمان‌دار باشد]]></title>
+		<link>https://digiato.com/iran-technology-news/minister-explanation-plan-shutdown-internet</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/minister-explanation-plan-shutdown-internet</guid>
+		<pubDate>Tue, 09 Jun 2026 07:50:27 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-38.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-38.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[رئیس شرکت زیرساخت: ترافیک اینترنت کشور به ۷۸ درصد سطح اول دی‌ماه ۱۴۰۴ رسیده است]]></title>
 		<link>https://digiato.com/tech/infrastructure-communications-explanations-about-network-quality</link>
@@ -15,8 +35,8 @@
 		<pubDate>Tue, 09 Jun 2026 07:44:39 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-34.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-34.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-34-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-34-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[وزیر ارتباطات: ترافیک استارلینک و شبکه‌های مرزی با ترافیک گیت‌وی رسمی اینترنت برابری می‌کرد]]></title>
@@ -25,8 +45,8 @@
 		<pubDate>Tue, 09 Jun 2026 07:39:46 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-37.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-37.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-37-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-37-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[پنتاگون علی‌بابا، بایدو و BYD را به لیست شرکت‌های همکار با ارتش چین اضافه کرد]]></title>
@@ -35,8 +55,8 @@
 		<pubDate>Tue, 09 Jun 2026 07:30:00 +0000</pubDate>
 		<category><![CDATA[اینترنت و شبکه]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/pentagon-china.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/pentagon-china.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/pentagon-china-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/pentagon-china-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[قابلیت تغییر چیدمان پست‌ها در پروفایل اینستاگرام سرانجام برای عموم عرضه شد]]></title>
