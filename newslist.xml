@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 16:25:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 16:55:06 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -15,8 +15,8 @@
 		<pubDate>Tue, 09 Jun 2026 16:00:00 +0000</pubDate>
 		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/signal-accuses-uk-mass-surveillance-child-safety-law-2.jpeg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/signal-accuses-uk-mass-surveillance-child-safety-law-2.jpeg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/signal-accuses-uk-mass-surveillance-child-safety-law-2-330x200.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/signal-accuses-uk-mass-surveillance-child-safety-law-2-330x200.jpeg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[پروژه‌های متن‌باز مایکروسافت دوباره هدف حمله قرار گرفتند؛ سرقت اطلاعات کاربران با تزریق بدافزار]]></title>
