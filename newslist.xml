@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 09:40:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 10:05:14 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[اذعان متا: هکرها با Meta AI بیش از ۲۰ هزار اکانت اینستاگرام را سرقت کردند]]></title>
+		<link>https://digiato.com/security/meta-ai-support-chatbot-hack-20k-instagram-accounts</link>
+		<guid isPermaLink="true">https://digiato.com/security/meta-ai-support-chatbot-hack-20k-instagram-accounts</guid>
+		<pubDate>Tue, 09 Jun 2026 10:00:00 +0000</pubDate>
+		<category><![CDATA[امنیت]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/meta-ai-support-chatbot-hack-20k-instagram-accounts-۲.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/meta-ai-support-chatbot-hack-20k-instagram-accounts-۲.jpeg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[وزیر ارتباطات خطاب به طرفداران سیاست وایت‌لیست: ماستتان را بخورید]]></title>
 		<link>https://digiato.com/iran-technology-news/explanations-minister-communications-whitelist-policy</link>
