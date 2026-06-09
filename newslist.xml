@@ -5,9 +5,39 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 14:10:19 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 14:35:30 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[داده‌های میلی از ساعات پر ابهام؛ فعالیت کاربران دو برابر شد]]></title>
+		<link>https://digiato.com/iran-technology-news/milli-user-activity-doubled-amid-recent-market-uncertainty</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/milli-user-activity-doubled-amid-recent-market-uncertainty</guid>
+		<pubDate>Tue, 09 Jun 2026 14:32:04 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Milli-Logo.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Milli-Logo.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[گوگل با معرفی یک توپ فوتبال به استقبال جام جهانی ۲۰۲۶ رفت]]></title>
+		<link>https://digiato.com/gadgets/google-stadium-soccer-ball-world-cup-2026</link>
+		<guid isPermaLink="true">https://digiato.com/gadgets/google-stadium-soccer-ball-world-cup-2026</guid>
+		<pubDate>Tue, 09 Jun 2026 14:30:00 +0000</pubDate>
+		<category><![CDATA[گجت ها]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Google-Stadium-Soccer-Ball.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Google-Stadium-Soccer-Ball.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[دلایل کند شدن سرور مجازی در نت ملی چیست؟ + معرفی راه حل]]></title>
+		<link>https://digiato.com/iran-technology-news/why-vps-is-slow-on-national-internet-and-how-to-fix-it</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/why-vps-is-slow-on-national-internet-and-how-to-fix-it</guid>
+		<pubDate>Tue, 09 Jun 2026 14:26:52 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_17-43-27.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_17-43-27.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[جنجال بر سر حضور ایلان ماسک در ASML؛ کارمندان تهدید کردند سخنرانی او را تحریم می‌کنند]]></title>
 		<link>https://digiato.com/computers-hardware/asml-employees-boycott-elon-musk-conference-terafab</link>
@@ -15,8 +45,8 @@
 		<pubDate>Tue, 09 Jun 2026 14:00:00 +0000</pubDate>
 		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/elon-musk-2.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/elon-musk-2.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/elon-musk-2-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/elon-musk-2-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[قیمت اشتراک AI Plus جمینای ارزان‌تر و فضای ذخیره‌سازی آن دو برابر شد]]></title>
