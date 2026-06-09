@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 08:45:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 09:15:22 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[وزیر ارتباطات خطاب به طرفداران سیاست وایت‌لیست: ماستتان را بخورید]]></title>
+		<link>https://digiato.com/iran-technology-news/explanations-minister-communications-whitelist-policy</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/explanations-minister-communications-whitelist-policy</guid>
+		<pubDate>Tue, 09 Jun 2026 09:08:04 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_12-32-04.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_12-32-04.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[پیشرفته‌ترین مدل هوش مصنوعی آفلاین اپل فقط روی آیفون ۱۷ پرو و آیفون ایر اجرا می‌شود]]></title>
+		<link>https://digiato.com/artificial-intelligence/apple-advanced-ai-requires-iphone-17-pro-air</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/apple-advanced-ai-requires-iphone-17-pro-air</guid>
+		<pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-ai.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-ai.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[مدیران ارشد اپل جزئیات همکاری با گوگل برای توسعه Siri AI را تشریح کردند]]></title>
 		<link>https://digiato.com/artificial-intelligence/apple-siri-ai-ios-27-google-nvidia-collaboration</link>
@@ -15,8 +35,8 @@
 		<pubDate>Tue, 09 Jun 2026 08:30:00 +0000</pubDate>
 		<category><![CDATA[هوش مصنوعی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-siri-ai-ios-27-google-nvidia-collaboration-۱.jpeg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/apple-siri-ai-ios-27-google-nvidia-collaboration-۱.jpeg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-siri-ai-ios-27-google-nvidia-collaboration-۱-330x200.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-siri-ai-ios-27-google-nvidia-collaboration-۱-330x200.jpeg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[کاربران اپل برای آزمایش Siri AI باید در صف انتظار قرار بگیرند]]></title>
@@ -265,8 +285,8 @@
 		<pubDate>Mon, 08 Jun 2026 14:30:00 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/Most_Visited_Cities_in_US-1.webp" type="image/webp" />
-		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/Most_Visited_Cities_in_US-1.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Most_Visited_Cities_in_US-1-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Most_Visited_Cities_in_US-1-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[اولین تصویر از پردازنده دسکتاپ Nova Lake-S اینتل با سوکت LGA 1954 فاش شد]]></title>
