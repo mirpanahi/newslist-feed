@@ -5,9 +5,39 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Mon, 08 Jun 2026 20:10:16 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 04:35:30 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[جمع‌بندی WWDC 2026؛ سیری بالاخره هوشمند شد!]]></title>
+		<link>https://digiato.com/tech/everything-announced-at-apple-wwdc-2026</link>
+		<guid isPermaLink="true">https://digiato.com/tech/everything-announced-at-apple-wwdc-2026</guid>
+		<pubDate>Mon, 08 Jun 2026 20:27:49 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/youtube-55-IOS27.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/youtube-55-IOS27.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[افزایش چشمگیر سرعت آیفون: ۳۰ درصد عملکرد بهتر و ۸۰ درصد سرعت بالاتر ایردراپ]]></title>
+		<link>https://digiato.com/app/apple-ecosystem-ios27-ipados27-speed-increase</link>
+		<guid isPermaLink="true">https://digiato.com/app/apple-ecosystem-ios27-ipados27-speed-increase</guid>
+		<pubDate>Mon, 08 Jun 2026 20:15:56 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-os-speed-increase-2.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-os-speed-increase-2.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[اپل اولین نسخه بتای توسعه‌دهندگان آپدیت iOS 27 را منتشر کرد]]></title>
+		<link>https://digiato.com/app/apple-releases-ios-27-beta-siri-ai-features</link>
+		<guid isPermaLink="true">https://digiato.com/app/apple-releases-ios-27-beta-siri-ai-features</guid>
+		<pubDate>Mon, 08 Jun 2026 20:14:58 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/lcimg-5b9b17a9-ed40-49ad-9e5d-48ef06425794.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/lcimg-5b9b17a9-ed40-49ad-9e5d-48ef06425794.jpeg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[پایان پشتیبانی از نسل‌های قدیمی؛ کدام دستگا‌ه‌ها watchOS 27 و iPadOS 27 را دریافت می‌کنند؟]]></title>
 		<link>https://digiato.com/gadgets/apple-watchos-27-ipados-27-drops-support-older-devices</link>
@@ -15,8 +45,8 @@
 		<pubDate>Mon, 08 Jun 2026 19:45:42 +0000</pubDate>
 		<category><![CDATA[گجت ها]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/iPadOS-27.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/iPadOS-27.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/iPadOS-27-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/iPadOS-27-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[سیستم‌عامل macOS Golden Gate اپل برای کدام مدل‌های مک منتشر می‌شود؟]]></title>
