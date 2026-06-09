@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 09:15:22 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 09:40:06 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -15,8 +15,8 @@
 		<pubDate>Tue, 09 Jun 2026 09:08:04 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_12-32-04.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_12-32-04.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_12-32-04-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_12-32-04-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[پیشرفته‌ترین مدل هوش مصنوعی آفلاین اپل فقط روی آیفون ۱۷ پرو و آیفون ایر اجرا می‌شود]]></title>
@@ -25,8 +25,8 @@
 		<pubDate>Tue, 09 Jun 2026 09:00:00 +0000</pubDate>
 		<category><![CDATA[هوش مصنوعی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-ai.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/apple-ai.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-ai-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-ai-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[مدیران ارشد اپل جزئیات همکاری با گوگل برای توسعه Siri AI را تشریح کردند]]></title>
