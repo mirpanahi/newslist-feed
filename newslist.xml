@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 06:25:15 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 06:50:14 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[قابلیت تغییر چیدمان پست‌ها در پروفایل اینستاگرام سرانجام برای عموم عرضه شد]]></title>
+		<link>https://digiato.com/app/instagram-reorder-posts-grid-feature-rolled-out</link>
+		<guid isPermaLink="true">https://digiato.com/app/instagram-reorder-posts-grid-feature-rolled-out</guid>
+		<pubDate>Tue, 09 Jun 2026 06:30:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/instagram-1.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/instagram-1.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[اطلاعاتی از آیفون تاشو در کدهای اولین نسخه بتا iOS 27 لو رفت]]></title>
 		<link>https://digiato.com/mobile/apple-foldable-iphone-ultra-ios-27-beta-code-leak</link>
@@ -15,8 +25,8 @@
 		<pubDate>Tue, 09 Jun 2026 06:00:00 +0000</pubDate>
 		<category><![CDATA[موبایل]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-foldable-iphone-ultra-ios-27-beta-code-leak-۲-copy.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/apple-foldable-iphone-ultra-ios-27-beta-code-leak-۲-copy.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-foldable-iphone-ultra-ios-27-beta-code-leak-۲-copy-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-foldable-iphone-ultra-ios-27-beta-code-leak-۲-copy-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[جمع‌بندی WWDC 2026؛ سیری بالاخره هوشمند شد!]]></title>
