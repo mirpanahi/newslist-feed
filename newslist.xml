@@ -5,9 +5,39 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 07:15:06 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 07:45:33 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[رئیس شرکت زیرساخت: ترافیک اینترنت کشور به ۷۸ درصد سطح اول دی‌ماه ۱۴۰۴ رسیده است]]></title>
+		<link>https://digiato.com/tech/infrastructure-communications-explanations-about-network-quality</link>
+		<guid isPermaLink="true">https://digiato.com/tech/infrastructure-communications-explanations-about-network-quality</guid>
+		<pubDate>Tue, 09 Jun 2026 07:44:39 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-34.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-34.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[وزیر ارتباطات: ترافیک استارلینک و شبکه‌های مرزی با ترافیک گیت‌وی رسمی اینترنت برابری می‌کرد]]></title>
+		<link>https://digiato.com/iran-technology-news/minister-of-communications-press-conference-about-starlink</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/minister-of-communications-press-conference-about-starlink</guid>
+		<pubDate>Tue, 09 Jun 2026 07:39:46 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-37.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_11-03-37.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[پنتاگون علی‌بابا، بایدو و BYD را به لیست شرکت‌های همکار با ارتش چین اضافه کرد]]></title>
+		<link>https://digiato.com/internet-network/pentagon-china-military-list-alibaba-baidu-byd</link>
+		<guid isPermaLink="true">https://digiato.com/internet-network/pentagon-china-military-list-alibaba-baidu-byd</guid>
+		<pubDate>Tue, 09 Jun 2026 07:30:00 +0000</pubDate>
+		<category><![CDATA[اینترنت و شبکه]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/pentagon-china.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/pentagon-china.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[قابلیت تغییر چیدمان پست‌ها در پروفایل اینستاگرام سرانجام برای عموم عرضه شد]]></title>
 		<link>https://digiato.com/app/instagram-reorder-posts-grid-feature-rolled-out</link>
