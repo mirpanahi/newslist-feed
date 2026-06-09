@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 15:00:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 15:25:15 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[اینتل نرم‌افزار گیمینگ iBOT را آپدیت کرد؛ بهبود عملکرد تا ۲۷ درصد در ۷ بازی جدید]]></title>
+		<link>https://digiato.com/computers-hardware/intel-ibot-software-update-7-new-games-performance-boost</link>
+		<guid isPermaLink="true">https://digiato.com/computers-hardware/intel-ibot-software-update-7-new-games-performance-boost</guid>
+		<pubDate>Tue, 09 Jun 2026 15:00:00 +0000</pubDate>
+		<category><![CDATA[کامپیوتر و سخت افزار]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/2026-03-27-image-2.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/2026-03-27-image-2.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[وزیر کار: ساختن جهانی هماهنگ، با صلح پایدار و رفاه همگانی در گرو همکاری ملت‌هاست]]></title>
 		<link>https://digiato.com/iran-technology-news/ahmad-meidari-proposes-war-and-workers-of-the-world-topic-at-ilo-2026</link>
@@ -15,8 +25,8 @@
 		<pubDate>Tue, 09 Jun 2026 14:59:25 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/eaeff93a-2c8f-454d-92fe-95530f359015.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/eaeff93a-2c8f-454d-92fe-95530f359015.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/eaeff93a-2c8f-454d-92fe-95530f359015-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/eaeff93a-2c8f-454d-92fe-95530f359015-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[داده‌های میلی از ساعات پر ابهام؛ فعالیت کاربران دو برابر شد]]></title>
