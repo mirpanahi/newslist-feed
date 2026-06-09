@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 11:55:20 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 12:20:14 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[تمرکز ویژه اپل بر امنیت کودکان؛ قابلیت‌های جدید نظارتی والدین به آیفون می‌آید]]></title>
+		<link>https://digiato.com/app/apple-iphone-parental-control-upgrades-ios-27</link>
+		<guid isPermaLink="true">https://digiato.com/app/apple-iphone-parental-control-upgrades-ios-27</guid>
+		<pubDate>Tue, 09 Jun 2026 12:00:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Apple-Parent-Controls.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Apple-Parent-Controls.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[انجمن وی‌او‌دی: سیگنال پاک جام جهانی را به پلتفرم‌های داخلی بدهید]]></title>
 		<link>https://digiato.com/iran-technology-news/vod-association-requests-fifa-world-cup-clean-signal</link>
@@ -15,8 +25,8 @@
 		<pubDate>Tue, 09 Jun 2026 11:30:28 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/logo-land.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/logo-land.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/logo-land-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/logo-land-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[حواشی WWDC 2026؛ معترضان خواستار حذف اپ‌های ایلان ماسک از اپ استور شدند]]></title>
@@ -25,8 +35,8 @@
 		<pubDate>Tue, 09 Jun 2026 11:30:00 +0000</pubDate>
 		<category><![CDATA[اینترنت و شبکه]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-child-abuse.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/apple-child-abuse.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-child-abuse-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-child-abuse-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[وزیر ارتباطات: قطع اینترنت، روزانه ۱۵ میلیون دلار به اقتصاد دیجیتال خسارت زد]]></title>
