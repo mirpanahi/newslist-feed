@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 11:30:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 11:55:20 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[انجمن وی‌او‌دی: سیگنال پاک جام جهانی را به پلتفرم‌های داخلی بدهید]]></title>
+		<link>https://digiato.com/iran-technology-news/vod-association-requests-fifa-world-cup-clean-signal</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/vod-association-requests-fifa-world-cup-clean-signal</guid>
+		<pubDate>Tue, 09 Jun 2026 11:30:28 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/logo-land.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/logo-land.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[حواشی WWDC 2026؛ معترضان خواستار حذف اپ‌های ایلان ماسک از اپ استور شدند]]></title>
+		<link>https://digiato.com/internet-network/apple-wwdc-protesters-nudify-apps-john-ternus</link>
+		<guid isPermaLink="true">https://digiato.com/internet-network/apple-wwdc-protesters-nudify-apps-john-ternus</guid>
+		<pubDate>Tue, 09 Jun 2026 11:30:00 +0000</pubDate>
+		<category><![CDATA[اینترنت و شبکه]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-child-abuse.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-child-abuse.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[وزیر ارتباطات: قطع اینترنت، روزانه ۱۵ میلیون دلار به اقتصاد دیجیتال خسارت زد]]></title>
 		<link>https://digiato.com/iran-technology-news/digital-economy-lost-15-million-day-internet-outages</link>
@@ -15,8 +35,8 @@
 		<pubDate>Tue, 09 Jun 2026 11:10:44 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/وزیر-ارتباطات.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/وزیر-ارتباطات.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/وزیر-ارتباطات-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/وزیر-ارتباطات-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[ای ام دی بخریم یا اینتل؟ AMD vs Intel]]></title>
@@ -305,8 +325,8 @@
 		<pubDate>Mon, 08 Jun 2026 15:30:00 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/abdd003c-6e2d-41e1-96c7-5b1abcb811a1.webp" type="image/webp" />
-		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/abdd003c-6e2d-41e1-96c7-5b1abcb811a1.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/abdd003c-6e2d-41e1-96c7-5b1abcb811a1-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/abdd003c-6e2d-41e1-96c7-5b1abcb811a1-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[مانیتورهای جدید AntGamer از راه رسیدند؛ مدل ۱۰۰۰ هرتزی با پنل RGB Mini LED]]></title>
