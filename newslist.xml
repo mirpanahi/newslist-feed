@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 15:55:17 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 16:25:13 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[پیام‌رسان سیگنال: دولت بریتانیا به بهانه حفاظت از کودکان می‌خواهد از مردم جاسوسی کند]]></title>
+		<link>https://digiato.com/app/signal-accuses-uk-mass-surveillance-child-safety-law</link>
+		<guid isPermaLink="true">https://digiato.com/app/signal-accuses-uk-mass-surveillance-child-safety-law</guid>
+		<pubDate>Tue, 09 Jun 2026 16:00:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/signal-accuses-uk-mass-surveillance-child-safety-law-2.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/signal-accuses-uk-mass-surveillance-child-safety-law-2.jpeg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[پروژه‌های متن‌باز مایکروسافت دوباره هدف حمله قرار گرفتند؛ سرقت اطلاعات کاربران با تزریق بدافزار]]></title>
 		<link>https://digiato.com/security/microsoft-open-source-projects-hacked-github-malware</link>
@@ -15,8 +25,8 @@
 		<pubDate>Tue, 09 Jun 2026 15:30:00 +0000</pubDate>
 		<category><![CDATA[امنیت]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/microisot.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/microisot.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/microisot-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/microisot-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[اینتل نرم‌افزار گیمینگ iBOT را آپدیت کرد؛ بهبود عملکرد تا ۲۷ درصد در ۷ بازی جدید]]></title>
@@ -385,8 +395,8 @@
 		<pubDate>Mon, 08 Jun 2026 18:30:00 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/DA00031027_Si-1.webp" type="image/webp" />
-		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/DA00031027_Si-1.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/DA00031027_Si-1-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/DA00031027_Si-1-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[آپدیت iOS 27 برای خانواده آیفون ۱۱ و جدیدتر از آن عرضه می‌شود]]></title>
