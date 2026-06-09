@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 04:35:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 05:00:06 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -15,8 +15,8 @@
 		<pubDate>Mon, 08 Jun 2026 20:27:49 +0000</pubDate>
 		<category><![CDATA[تکنولوژی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/youtube-55-IOS27.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/youtube-55-IOS27.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/youtube-55-IOS27-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/youtube-55-IOS27-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[افزایش چشمگیر سرعت آیفون: ۳۰ درصد عملکرد بهتر و ۸۰ درصد سرعت بالاتر ایردراپ]]></title>
@@ -25,8 +25,8 @@
 		<pubDate>Mon, 08 Jun 2026 20:15:56 +0000</pubDate>
 		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-os-speed-increase-2.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/apple-os-speed-increase-2.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/apple-os-speed-increase-2-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/apple-os-speed-increase-2-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[اپل اولین نسخه بتای توسعه‌دهندگان آپدیت iOS 27 را منتشر کرد]]></title>
@@ -35,8 +35,8 @@
 		<pubDate>Mon, 08 Jun 2026 20:14:58 +0000</pubDate>
 		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/lcimg-5b9b17a9-ed40-49ad-9e5d-48ef06425794.jpeg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/lcimg-5b9b17a9-ed40-49ad-9e5d-48ef06425794.jpeg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/lcimg-5b9b17a9-ed40-49ad-9e5d-48ef06425794.jpeg-330x200.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/lcimg-5b9b17a9-ed40-49ad-9e5d-48ef06425794.jpeg-330x200.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[پایان پشتیبانی از نسل‌های قدیمی؛ کدام دستگا‌ه‌ها watchOS 27 و iPadOS 27 را دریافت می‌کنند؟]]></title>
