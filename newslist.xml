@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 12:50:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 13:15:14 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[شکایت واتس‌اپ به دادگاه: جاسوس‌افزار پگاسوس دوباره کاربران را هدف قرار داده است]]></title>
+		<link>https://digiato.com/security/whatsapp-disrupts-nso-group-pegasus-spyware-attack</link>
+		<guid isPermaLink="true">https://digiato.com/security/whatsapp-disrupts-nso-group-pegasus-spyware-attack</guid>
+		<pubDate>Tue, 09 Jun 2026 13:00:00 +0000</pubDate>
+		<category><![CDATA[امنیت]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/whatsapp-disrupts-nso-group-pegasus-spyware-attack-۱.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/whatsapp-disrupts-nso-group-pegasus-spyware-attack-۱.jpeg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[دیوان عدالت شکایت علیه ستاد راهبری فضای مجازی را رد کرد؛ تیر مخالفان اینترنت به سنگ خورد]]></title>
 		<link>https://digiato.com/iran-technology-news/digital-governance-headquarters-lawsuit</link>
@@ -15,8 +25,8 @@
 		<pubDate>Tue, 09 Jun 2026 12:48:07 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/دیوان-عدالت.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/دیوان-عدالت.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/دیوان-عدالت-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/دیوان-عدالت-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[آغاز همکاری گلرنگ‌سیستم و دانشکدگان فنی دانشگاه تهران در حوزه هوش مصنوعی]]></title>
@@ -25,8 +35,8 @@
 		<pubDate>Tue, 09 Jun 2026 12:32:26 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/گلرنگ-سیستم.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/گلرنگ-سیستم.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/گلرنگ-سیستم-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/گلرنگ-سیستم-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[قیمت روز پرفروش‌ترین لپ‌تاپ‌های گیمینگ بازار ایران [18 خرداد 1405]]]></title>
@@ -35,8 +45,8 @@
 		<pubDate>Tue, 09 Jun 2026 12:30:10 +0000</pubDate>
 		<category><![CDATA[لپ تاپ]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/02/list-for-laptop1.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/02/list-for-laptop1.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/02/list-for-laptop1-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/02/list-for-laptop1-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[تمرکز ویژه اپل بر امنیت کودکان؛ قابلیت‌های جدید نظارتی والدین به آیفون می‌آید]]></title>
