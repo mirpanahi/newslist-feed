@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 13:15:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 13:45:22 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[قیمت اشتراک AI Plus جمینای ارزان‌تر و فضای ذخیره‌سازی آن دو برابر شد]]></title>
+		<link>https://digiato.com/artificial-intelligence/google-ai-plus-subscription-price-cut-storage-doubled</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/google-ai-plus-subscription-price-cut-storage-doubled</guid>
+		<pubDate>Tue, 09 Jun 2026 13:30:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/google-ai-plus-subscription-price-cut-storage-doubled-۱.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/google-ai-plus-subscription-price-cut-storage-doubled-۱.jpeg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[وزیر ارتباطات: به وضعیت پیش از دی ماه هم رضایت نمی‌دهیم، اینترنت باید بازتر شود]]></title>
+		<link>https://digiato.com/iran-technology-news/iran-ict-minister-internet-restrictions-time-bound-transparent</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/iran-ict-minister-internet-restrictions-time-bound-transparent</guid>
+		<pubDate>Tue, 09 Jun 2026 13:18:11 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/DigiPics-Neshast-Sattar-Hashemi-1.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/DigiPics-Neshast-Sattar-Hashemi-1.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[شکایت واتس‌اپ به دادگاه: جاسوس‌افزار پگاسوس دوباره کاربران را هدف قرار داده است]]></title>
 		<link>https://digiato.com/security/whatsapp-disrupts-nso-group-pegasus-spyware-attack</link>
@@ -15,8 +35,8 @@
 		<pubDate>Tue, 09 Jun 2026 13:00:00 +0000</pubDate>
 		<category><![CDATA[امنیت]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/whatsapp-disrupts-nso-group-pegasus-spyware-attack-۱.jpeg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/whatsapp-disrupts-nso-group-pegasus-spyware-attack-۱.jpeg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/whatsapp-disrupts-nso-group-pegasus-spyware-attack-۱-330x200.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/whatsapp-disrupts-nso-group-pegasus-spyware-attack-۱-330x200.jpeg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[دیوان عدالت شکایت علیه ستاد راهبری فضای مجازی را رد کرد؛ تیر مخالفان اینترنت به سنگ خورد]]></title>
