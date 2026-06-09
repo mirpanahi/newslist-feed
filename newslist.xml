@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Tue, 09 Jun 2026 14:35:30 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 09 Jun 2026 15:00:12 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[وزیر کار: ساختن جهانی هماهنگ، با صلح پایدار و رفاه همگانی در گرو همکاری ملت‌هاست]]></title>
+		<link>https://digiato.com/iran-technology-news/ahmad-meidari-proposes-war-and-workers-of-the-world-topic-at-ilo-2026</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/ahmad-meidari-proposes-war-and-workers-of-the-world-topic-at-ilo-2026</guid>
+		<pubDate>Tue, 09 Jun 2026 14:59:25 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/eaeff93a-2c8f-454d-92fe-95530f359015.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/eaeff93a-2c8f-454d-92fe-95530f359015.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[داده‌های میلی از ساعات پر ابهام؛ فعالیت کاربران دو برابر شد]]></title>
 		<link>https://digiato.com/iran-technology-news/milli-user-activity-doubled-amid-recent-market-uncertainty</link>
@@ -15,8 +25,8 @@
 		<pubDate>Tue, 09 Jun 2026 14:32:04 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/Milli-Logo.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/Milli-Logo.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Milli-Logo-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Milli-Logo-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[گوگل با معرفی یک توپ فوتبال به استقبال جام جهانی ۲۰۲۶ رفت]]></title>
@@ -25,8 +35,8 @@
 		<pubDate>Tue, 09 Jun 2026 14:30:00 +0000</pubDate>
 		<category><![CDATA[گجت ها]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/Google-Stadium-Soccer-Ball.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/Google-Stadium-Soccer-Ball.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Google-Stadium-Soccer-Ball-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Google-Stadium-Soccer-Ball-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[دلایل کند شدن سرور مجازی در نت ملی چیست؟ + معرفی راه حل]]></title>
@@ -35,8 +45,8 @@
 		<pubDate>Tue, 09 Jun 2026 14:26:52 +0000</pubDate>
 		<category><![CDATA[فناوری ایران]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_17-43-27.jpg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_17-43-27.jpg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_17-43-27-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/photo_2026-06-09_17-43-27-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[جنجال بر سر حضور ایلان ماسک در ASML؛ کارمندان تهدید کردند سخنرانی او را تحریم می‌کنند]]></title>
