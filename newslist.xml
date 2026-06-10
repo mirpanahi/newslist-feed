@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Wed, 10 Jun 2026 07:55:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jun 2026 08:25:21 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[گوگل ترنسلیت و میت با هوش مصنوعی Gemini 3.5 Live Translate متحول می‌شوند [تماشا کنید]]]></title>
+		<link>https://digiato.com/artificial-intelligence/google-gemini-live-translate-meet-app</link>
+		<guid isPermaLink="true">https://digiato.com/artificial-intelligence/google-gemini-live-translate-meet-app</guid>
+		<pubDate>Wed, 10 Jun 2026 08:00:00 +0000</pubDate>
+		<category><![CDATA[هوش مصنوعی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/Gemini-Live-Translate.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/Gemini-Live-Translate.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[OpenAI خواستار ایجاد سازمان جهانی نظارت بر توسعه هوش مصنوعی شد]]></title>
 		<link>https://digiato.com/artificial-intelligence/openai-anthropic-international-ai-watchdog-call</link>
@@ -77,6 +87,16 @@
 		<source url="https://iotechoi.com/newslist">Digiato</source>
 		<enclosure url="https://static.digiato.com/digiato/2026/06/signal-accuses-uk-mass-surveillance-child-safety-law-2-330x200.jpeg.webp" type="image/webp" />
 		<media:content url="https://static.digiato.com/digiato/2026/06/signal-accuses-uk-mass-surveillance-child-safety-law-2-330x200.jpeg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: پروژه ۱۰۰ میلیارد دلاری جنگنده نسل ششمی اروپا به دلیل اختلاف آلمان و فرانسه لغو شد]]></title>
+		<link>https://digiato.com/tech/europes-fcas-joint-fighter-jet</link>
+		<guid isPermaLink="true">https://digiato.com/tech/europes-fcas-joint-fighter-jet</guid>
+		<pubDate>Tue, 09 Jun 2026 15:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/FCAS-Joint-Fighter-Jet.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/FCAS-Joint-Fighter-Jet.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[پروژه‌های متن‌باز مایکروسافت دوباره هدف حمله قرار گرفتند؛ سرقت اطلاعات کاربران با تزریق بدافزار]]></title>
