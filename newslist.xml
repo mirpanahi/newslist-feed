@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Wed, 10 Jun 2026 04:40:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jun 2026 05:10:10 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -67,6 +67,16 @@
 		<source url="https://iotechoi.com/newslist">Digiato</source>
 		<enclosure url="https://static.digiato.com/digiato/2026/06/Milli-Logo-330x200.jpg.webp" type="image/webp" />
 		<media:content url="https://static.digiato.com/digiato/2026/06/Milli-Logo-330x200.jpg.webp" medium="image" type="image/webp" />
+	</item>
+	<item>
+		<title><![CDATA[روزیاتو: پرفروش‌ترین بلاک‌باسترهای تابستانی هالیوود از سال ۲۰۱۰ تاکنون + اینفوگرافی]]></title>
+		<link>https://digiato.com/tech/biggest-summer-blockbusters-since-2010</link>
+		<guid isPermaLink="true">https://digiato.com/tech/biggest-summer-blockbusters-since-2010</guid>
+		<pubDate>Tue, 09 Jun 2026 14:30:00 +0000</pubDate>
+		<category><![CDATA[تکنولوژی]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://rooziato.com/wp-content/uploads/2026/06/Highest-Grossing-Summer-Movies.webp" type="image/webp" />
+		<media:content url="https://rooziato.com/wp-content/uploads/2026/06/Highest-Grossing-Summer-Movies.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[گوگل با معرفی یک توپ فوتبال به استقبال جام جهانی ۲۰۲۶ رفت]]></title>
