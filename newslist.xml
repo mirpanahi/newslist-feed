@@ -5,9 +5,19 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Wed, 10 Jun 2026 05:35:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jun 2026 06:05:14 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[اپل ویژگی‌های جدید اپ استور را معرفی کرد: پیشنهادهای شخصی‌سازی‌شده و باندل‌های فروش]]></title>
+		<link>https://digiato.com/app/apple-app-store-personalized-collections-announced</link>
+		<guid isPermaLink="true">https://digiato.com/app/apple-app-store-personalized-collections-announced</guid>
+		<pubDate>Wed, 10 Jun 2026 06:00:00 +0000</pubDate>
+		<category><![CDATA[نرم افزار و اپلیکیشن]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/App-store.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/App-store.jpg.webp" medium="image" type="image/webp" />
+	</item>
 	<item>
 		<title><![CDATA[آنتروپیک Claude Fable 5 عرضه شد؛ اولین نسخه عمومی از مدل جنجالی Mythos]]></title>
 		<link>https://digiato.com/artificial-intelligence/anthropic-claude-fable-5-mythos-ai-model-launch</link>
@@ -15,8 +25,8 @@
 		<pubDate>Wed, 10 Jun 2026 05:29:48 +0000</pubDate>
 		<category><![CDATA[هوش مصنوعی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/anthropic-claude-fable-5-mythos-ai-model-launch-۶.jpeg" type="image/jpeg" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/anthropic-claude-fable-5-mythos-ai-model-launch-۶.jpeg" medium="image" type="image/jpeg" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/anthropic-claude-fable-5-mythos-ai-model-launch-۶-330x200.jpeg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/anthropic-claude-fable-5-mythos-ai-model-launch-۶-330x200.jpeg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[داستان دکمه Turbo در کیس‌های قدیمی: بزرگترین دروغ تاریخ سخت‌افزار!]]></title>
