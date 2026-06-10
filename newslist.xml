@@ -5,9 +5,29 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Wed, 10 Jun 2026 06:30:06 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jun 2026 06:55:19 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
+	<item>
+		<title><![CDATA[مکالمات تلفن ثابت به ثابت رایگان شد؛ مبلغ آبونمان بالا رفت]]></title>
+		<link>https://digiato.com/iran-technology-news/free-home-to-home-calls-landline-costs-changed</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/free-home-to-home-calls-landline-costs-changed</guid>
+		<pubDate>Wed, 10 Jun 2026 06:50:03 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/تلفنثابت.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/تلفنثابت.jpg" medium="image" type="image/jpeg" />
+	</item>
+	<item>
+		<title><![CDATA[تأثیر نمرات پایه یازدهم در کنکور ۱۴۰۵ مثبت شد]]></title>
+		<link>https://digiato.com/iran-technology-news/konkor-1405-grade-11-positive-effect</link>
+		<guid isPermaLink="true">https://digiato.com/iran-technology-news/konkor-1405-grade-11-positive-effect</guid>
+		<pubDate>Wed, 10 Jun 2026 06:44:07 +0000</pubDate>
+		<category><![CDATA[فناوری ایران]]></category>
+		<source url="https://iotechoi.com/newslist">Digiato</source>
+		<enclosure url="https://static.digiato.com/digiato/2026/06/امتحان-نهایی.jpg" type="image/jpeg" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/امتحان-نهایی.jpg" medium="image" type="image/jpeg" />
+	</item>
 	<item>
 		<title><![CDATA[اپل ویژگی‌های جدید اپ استور را معرفی کرد: پیشنهادهای شخصی‌سازی‌شده و باندل‌های فروش]]></title>
 		<link>https://digiato.com/app/apple-app-store-personalized-collections-announced</link>
