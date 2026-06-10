@@ -5,7 +5,7 @@
 	<link>https://iotechoi.com/</link>
 	<description><![CDATA[Aggregated Tech Daily]]></description>
 	<language>fa-IR</language>
-	<lastBuildDate>Wed, 10 Jun 2026 07:25:16 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 10 Jun 2026 07:55:05 +0000</lastBuildDate>
 	<generator>NewsList Aggregator 1.6.0</generator>
 	<atom:link href="https://iotechoi.com/newslist" rel="self" type="application/rss+xml" />
 	<item>
@@ -15,8 +15,8 @@
 		<pubDate>Wed, 10 Jun 2026 07:00:00 +0000</pubDate>
 		<category><![CDATA[هوش مصنوعی]]></category>
 		<source url="https://iotechoi.com/newslist">Digiato</source>
-		<enclosure url="https://static.digiato.com/digiato/2026/06/OpenAI.jpg.webp" type="image/webp" />
-		<media:content url="https://static.digiato.com/digiato/2026/06/OpenAI.jpg.webp" medium="image" type="image/webp" />
+		<enclosure url="https://static.digiato.com/digiato/2026/06/OpenAI-330x200.jpg.webp" type="image/webp" />
+		<media:content url="https://static.digiato.com/digiato/2026/06/OpenAI-330x200.jpg.webp" medium="image" type="image/webp" />
 	</item>
 	<item>
 		<title><![CDATA[مکالمات تلفن ثابت به ثابت رایگان شد؛ مبلغ آبونمان بالا رفت]]></title>
